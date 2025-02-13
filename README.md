@@ -1,7 +1,8 @@
-# João Paulo Sousa
+0000000000000.................# João Paulo Sousa
 
 Porto, Portugal · +351 935451052  
-jpsousa.ai.96@gmail.com · <a href="https://linkedin.com/in/joao-sousa96" aria-label="LinkedIn profile">
+jpsousa.ai.96@gmail.com · 
+<a href="https://linkedin.com/in/joao-sousa96" aria-label="LinkedIn profile">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_logo_initials.png" alt="LinkedIn logo" style="vertical-align:middle; width:16px; height:16px;">
   LinkedIn: joao-sousa96
 </a>
