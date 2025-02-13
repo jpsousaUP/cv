@@ -1,28 +1,32 @@
 # João Paulo Sousa
 
-<a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Map_pin.svg" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
-  Porto, Portugal
-</a> · 
-<a href="tel:+351935451052" aria-label="Call +351 935451052">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Deepin_Icon_Theme_%E2%80%93_deepin-phone-assistant_%28edited%29.svg" alt="Telephone icon" style="vertical-align:middle; width:16px; height:16px;">
-  +351 935451052
-</a> · 
+<p>
+  <a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
+    Porto, Portugal
+  </a>
+  <span style="margin: 0 8px;">|</span>
+  <span style="vertical-align:middle; font-size: 16px;">📞</span>
+  <span style="margin-left: 4px;">+351 935451052</span>
+</p>
 
-<a href="mailto:jpsousa.ai.96@gmail.com" aria-label="Email">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail logo" style="vertical-align:middle; width:16px; height:16px;">
-  jpsousa.ai.96@gmail.com
-</a> · 
+<p>
+  <a href="mailto:jpsousa.ai.96@gmail.com" aria-label="Email">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail logo" style="vertical-align:middle; width:16px; height:16px;">
+    jpsousa.ai.96@gmail.com
+  </a>
+  <span style="margin: 0 8px;">|</span>
+  <a href="https://linkedin.com/in/joao-sousa96" aria-label="LinkedIn profile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn logo" style="vertical-align:middle; width:16px; height:16px;">
+    LinkedIn
+  </a>
+  <span style="margin: 0 8px;">|</span>
+  <a href="https://orcid.org/0000-0003-3879-6908" aria-label="ORCID profile">
+    <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD icon" style="vertical-align:middle;">
+    ORCID: 0000-0003-3879-6908
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/joao-sousa96" aria-label="LinkedIn profile">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn logo" style="vertical-align:middle; width:16px; height:16px;">
-  LinkedIn
-</a> · 
-
-<a href="https://orcid.org/0000-0003-3879-6908" aria-label="ORCID profile">
-  <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD icon" style="vertical-align:middle;">
-  ORCID: 0000-0003-3879-6908
-</a>
 
 
 ## Professional Summary
