@@ -6,12 +6,13 @@ ORCID: 0000-0003-3879-6908
 
 ## Professional Summary
 
-PhD candidate at the University of Porto focused on applying Artificial Intelligence to laser additive manufacturing for monitoring and controlling manufacturing processes. My main interest is in building AI systems to solve real-world problems.
+PhD candidate at the University of Porto focused on applying Artificial Intelligence for real-time additive manufacturing monitoring and control. 
+My main interest is in building AI systems to solve real-world problems.
 
 ## Education
 
 ### Doctoral Program in Mechanical Engineering, University of Porto (2025)  
-**Focus:** Artificial Intelligence in Manufacturing  
+**Focus:** Artificial Intelligence in Laser-based Additive Manufacturing 
 **Supervisors:** Ana Reis, Luís Paulo Reis, Armando Sousa, Frank Brueckner  
 
 ### Integrated Master’s in Mechanical Engineering, University of Porto (Jul 2019)  
