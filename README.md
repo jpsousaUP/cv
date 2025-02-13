@@ -36,8 +36,8 @@ _My main interest lies in developing AI systems to address real-world problems._
 #### Technical Skills:
 
 - **Programming Languages:** Python, C++, SQL  
-- **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, SciPy, stable-baselines  
-- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc) 
+- **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, SciPy, Stable-baselines  
+- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc.) 
 - **Robotics:** ROS 2, MCAP, Foxglove  
 - **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, and LLaMa
 - **Project Management:** Managing small research teams, writing project proposals, and technical reports  
@@ -76,7 +76,7 @@ _My main interest lies in developing AI systems to address real-world problems._
 
 ## 💼 Professional Experience
 
-**FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, @ <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://www.liacc.up.pt/" target="_blank">LIACC</a> (_Since 2022_)**
+**FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://www.liacc.up.pt/" target="_blank">LIACC</a> (_Since 2022_)**
 
 - Conceptualized and developed my PhD work focused on applying AI to monitor and control laser-based additive manufacturing processes.
 - Developed a ROS 2 application for process digitalization, data management, and real-time end-to-end AI control.
