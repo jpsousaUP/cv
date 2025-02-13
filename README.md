@@ -114,7 +114,7 @@ _My main interest lies in developing AI systems to address real-world problems._
 ## Scientific Production
 
 ### Journal Articles
-- **Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review** – *IEEE Access, 2025*  
+- **João Sousa**, Benedikt Brandau, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, and Luís P. Reis. _"Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review."_ *IEEE Access*, 2025, pp. 1–1. (DOI: [10.1109/ACCESS.2025.3537859](https://doi.org/10.1109/ACCESS.2025.3537859)) 
 - **Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring** – *Robotics and Computer-Integrated Manufacturing, 2024*  
 - **JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment** – *IEEE Transactions on Neural Networks and Learning Systems, 2024*  
 - **Gen-JEMA: Enhanced Explainability using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition** – *Journal of Intelligent Manufacturing, 2025*  
