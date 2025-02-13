@@ -114,9 +114,9 @@ _My main interest lies in developing AI systems to address real-world problems._
 ## 🔬 Scientific Production
 
 ### 📖 Journal Articles
-1. **João Sousa**, Benedikt Brandau, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, and Luís P. Reis. _"Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review."_ *IEEE Access*, 2025, pp. 1–1. (DOI: [10.1109/ACCESS.2025.3537859](https://doi.org/10.1109/ACCESS.2025.3537859))
+1. **João Sousa**, Benedikt Brandau, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, and Luís P. Reis. **_"Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review."_** *IEEE Access*, 2025, pp. 1–1. (DOI: [10.1109/ACCESS.2025.3537859](https://doi.org/10.1109/ACCESS.2025.3537859))
    
-3. **João Sousa**, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring."_**, *Robotics and Computer-Integrated Manufacturing*, 2025,
+3. **João Sousa**, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring."_** *Robotics and Computer-Integrated Manufacturing*, 2025,
 DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  [Link to article](https://www.sciencedirect.com/science/article/pii/S0736584524001790)
   
 4. **João Sousa**, Roya Darabi, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment."_** Published on *arXiv* and under review at *IEEE Transactions on Neural Networks and Learning Systems*, 2024. (arXiv: [2410.23988](https://arxiv.org/abs/2410.23988))
