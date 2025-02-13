@@ -101,8 +101,8 @@ _My main interest lies in developing AI systems to address real-world problems._
 
 **Invited Professor and Member of <a href="https://www.liacc.up.pt/" target="_blank">LIACC</a> @ <a href="https://www.up.pt/" target="_blank">University of Porto</a> (Since 2022)**
 - Assisted in teaching bachelor’s and master’s courses in mechanical engineering, including:
-  - Industrial Automation: Programming and industrial instrumentation.
-  - Industrial Computing: Programming and field networking with applications for industrial systems.
+  - _Industrial Automation_: Programming and industrial instrumentation.
+  - _Industrial Computing_: Programming and field networking with applications for industrial systems.
 
 **Invited Professor @ <a href="https://www.isq.pt/" target="_blank">ISQ</a> (Since Feb 2021)**
 - Collaborated on a Welding Engineering Specialization course per the EWF Directive (IWE: International Welding Engineer).
