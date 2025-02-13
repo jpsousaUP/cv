@@ -27,9 +27,7 @@
   </a>
 </p>
 
-
-
-## Professional Summary
+## Summary
 
 PhD candidate at the University of Porto focused on applying Artificial Intelligence for real-time additive manufacturing monitoring and control. 
 
