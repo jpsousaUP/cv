@@ -31,7 +31,7 @@
 
 PhD candidate at the University of Porto, focusing on applying artificial intelligence to real-time monitoring and control of additive manufacturing processes.
 
-My main interest is in building AI systems to solve real-world problems.
+_My main interest lies in developing AI systems to address real-world problems._
 
 #### Technical Skills:
 
@@ -46,8 +46,9 @@ My main interest is in building AI systems to solve real-world problems.
 
 ## 🎓 Education
 - **Ph.D. in Mechanical Engineering** | <a href="https://www.up.pt/" target="_blank">University of Porto</a> (_2025_)  
-  _Focus:_ Artificial Intelligence in Laser-based Additive Manufacturing
+  _Focus:_ Artificial Intelligence in Laser-based Additive Manufacturing <br>
   _Supervisors:_ Ana Reis, Luís Paulo Reis, Armando Sousa, Frank Brueckner
+  
 - **M.Sc. in Mechanical Engineering** | <a href="https://www.up.pt/" target="_blank">University of Porto</a> (_Sep 2014 - Jul 2019_)  
   _Specialization:_ Automation
   
@@ -58,24 +59,24 @@ My main interest is in building AI systems to solve real-world problems.
 - **Agents Course, Hugging Face Learn** (Currently Ongoing)  
   Enrolled in Hugging Face's "Agents Course," gaining hands-on experience with building agents for real-world applications using modern natural language processing and machine learning frameworks.
 
-- **Introducing Multimodal Llama 3.2, DeepLearning.AI** (Oct 2024)   
+- **Introducing Multimodal Llama 3.2, DeepLearning.AI** (_Oct 2024_)   
   Learned key features of Llama 3.2, including image classification, vision reasoning, tool use, prompting, tokenization, and the Llama stack for building AI applications.
   Certificate Link
 
-- **Generative Deep Learning with TensorFlow, Coursera** (Aug 2023)  
+- **Generative Deep Learning with TensorFlow, Coursera** (_Aug 2023_)  
   Gained practical experience in advanced deep learning techniques including neural style transfer, autoencoders (DNN/CNN), variational autoencoders (VAEs) for data generation, and GANs for synthetic image creation, with a focus on model design and optimization.
 
-- **Deep Learning Specialization, Coursera** (Jun 2023)  
+- **Deep Learning Specialization, Coursera** (_Jun 2023_)  
   Mastered foundational deep learning concepts including CNNs, RNNs, LSTMs, and Transformers, with techniques such as dropout and batch normalization. Applied Python and TensorFlow to real-world tasks such as natural language processing, speech recognition, and machine translation.
 
-- **Machine Learning, Coursera** (Apr 2021)  
+- **Machine Learning, Coursera** (_Apr 2021_)  
   Completed a comprehensive introduction to machine learning, data mining, and statistical pattern recognition.
 
 
 
 ## 💼 Professional Experience
 
-**FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, @ <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://www.liacc.up.pt/" target="_blank">LIACC</a> (Since 2022)**
+**FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, @ <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://www.liacc.up.pt/" target="_blank">LIACC</a> (_Since 2022_)**
 
 - Conceptualized and developed my PhD work focused on applying AI to monitor and control laser-based additive manufacturing processes.
 - Developed a ROS 2 application for process digitalization, data management, and real-time end-to-end AI control.
@@ -85,16 +86,16 @@ My main interest is in building AI systems to solve real-world problems.
 - Active member of LIACC (Laboratory of Artificial Intelligence and Computer Science).
 
 
-**Product and Systems Development Engineer @ <a href="https://www.inegi.up.pt/en/" target="_blank">INEGI</a> (2019–2022)**
+**Product and Systems Development Engineer @ <a href="https://www.inegi.up.pt/en/" target="_blank">INEGI</a> (_2019–2022_)**
 - Worked on projects involving data storage and management, edge and cloud computing, and industrial automation engineering.
 - Assisted in the conceptualization and drafting of national and European project proposals.
 
 
 
-**Research Fellow @ <a href="https://www.fe.up.pt/en/" target="_blank">FEUP - INEGI</a> (2018–2019)**
+**Research Fellow @ <a href="https://www.fe.up.pt/en/" target="_blank">FEUP - INEGI</a> (_2018–2019_)**
 - Development of Master thesis: “Development of a Control Unit and Data Acquisition System for a Sheet Metal Universal Testing Machine.”
 
-**Intern @ <a href="https://www.esi-group.com/" target="_blank">ESI - Engineering, Solutions, and Innovation</a> (Jul–Sep 2018)**
+**Intern @ <a href="https://www.esi-group.com/" target="_blank">ESI - Engineering, Solutions, and Innovation</a> (_2018_)**
 - Programmed KUKA robots for R&D projects involving electric arc welding and additive manufacturing.
 
 
@@ -138,19 +139,19 @@ My main interest is in building AI systems to solve real-world problems.
 ### Master Thesis Supervision
 
 - **Tomás Cunha, 2022:** *Conception and Simulation of a Robotic Cell Based on the Digital Twin Concept for Industrial Manufacturing*  
-  - FEUP | Co-supervised | Developed a robotic digital twin for a manufacturing line.
+  INEGI | Co-supervised | Developed a robotic digital twin for a manufacturing line.
 
 - **Francisco Silva, 2022:** *Digitalization of CNC Machines: A Condition Monitoring System*  
-  - FEUP | Co-supervised | Implemented a system for real-time condition monitoring of CNC machines.
+  INEGI | Co-supervised | Implemented a system for real-time condition monitoring of CNC machines.
 
 - **António Luís Paiva, 2024:** *Application of Convolutional Neural Networks for Monitoring Laser Melting Deposition Processes*  
-  - FEUP | Co-supervised | Developing a CNN-based model for in-situ monitoring of laser-based manufacturing.
+  FEUP | Co-supervised | Developing a CNN-based model for in-situ monitoring of laser-based manufacturing.
 
 - **José Pedro Ferreira, 2024:** *Generative Multimodal Learning for In-situ Monitoring in Direct Energy Deposition*  
-  - FEUP | Co-supervised | Applying generative AI models for multimodal analysis in additive manufacturing.
+  FEUP | Co-supervised | Applying generative AI models for multimodal analysis in additive manufacturing.
 
 - **António Simões Alves, 2025:** *Computer Vision and AI for Monitoring the Melt Pool*  
-  - FEUP | Ongoing | Applying deep learning for real-time monitoring in laser additive manufacturing.
+  FEUP | Ongoing | Applying deep learning for real-time monitoring in laser additive manufacturing.
  
 ### Grants
 
