@@ -1,16 +1,7 @@
----
-name: "João Paulo Sousa"
-location: "Porto, Portugal"
-phone: "+351 935451052"
-email: "jpsousa.ai.96@gmail.com"
-linkedin: "https://linkedin.com/in/joao-sousa96"
-orcid: "0000-0003-3879-6908"
----
-
 # João Paulo Sousa
 
 Porto, Portugal · +351 935451052  
-jpsousa.ai.96@gmail.com · [LinkedIn](https://linkedin.com/in/joao-sousa96)  
+Jpsousa.ai.96@gmail.com · LinkedIn  
 ORCID: 0000-0003-3879-6908  
 
 ## Professional Summary
@@ -30,24 +21,28 @@ Awarded the “EDP Solidária” Merit Scholarship for the academic years 2015/1
 ## Training
 
 - **Agents Course, Hugging Face Learn** (Currently Ongoing)  
-  Gaining hands-on experience in building AI agents for real-world applications.
+  Enrolled in Hugging Face's "Agents Course," gaining hands-on experience with building agents for real-world applications using modern natural language processing and machine learning frameworks.
+
+- **Introducing Multimodal Llama 3.2, DeepLearning.AI** (Oct 2024)   
+  Learned key features of Llama 3.2, including image classification, vision reasoning, tool use, prompting, tokenization, and the Llama stack for building AI applications.
+  Certificate Link
+
+- **Generative Deep Learning with TensorFlow, Coursera** (Aug 2023)  
+  Gained practical experience in advanced deep learning techniques including neural style transfer, autoencoders (DNN/CNN), variational autoencoders (VAEs) for data generation, and GANs for synthetic image creation, with a focus on model design and optimization.
 
 - **Deep Learning Specialization, Coursera** (Jun 2023)  
-  Mastered foundational deep learning concepts including CNNs, RNNs, LSTMs, and Transformers.
+  Mastered foundational deep learning concepts including CNNs, RNNs, LSTMs, and Transformers, with techniques such as dropout and batch normalization. Applied Python and TensorFlow to real-world tasks such as natural language processing, speech recognition, and machine translation.
 
 - **Machine Learning, Coursera** (Apr 2021)  
   Completed a comprehensive introduction to machine learning, data mining, and statistical pattern recognition.
-
-- **Advanced AI for Manufacturing, MIT Professional Education** (2025)  
-  Explored AI applications in smart manufacturing, industrial automation, and digital twins.
 
 ## Skills
 
 - **Programming Languages:** Python, C++, SQL  
 - **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, SciPy, stable-baselines  
-- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc)  
+- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc) 
 - **Robotics:** ROS 2, MCAP, Foxglove  
-- **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, and LLaMa  
+- **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, and LLaMa
 - **Project Management:** Managing small research teams, writing project proposals, and technical reports  
 - **Additional Tools:** Time series databases (InfluxDB), Containers (Docker), Repositories (GitHub, Bitbucket)  
 
@@ -91,17 +86,38 @@ Awarded the “EDP Solidária” Merit Scholarship for the academic years 2015/1
 ### Journal Articles
 - **Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review** – *IEEE Access, 2025*  
 - **Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring** – *Robotics and Computer-Integrated Manufacturing, 2024*  
+- **JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment** – *IEEE Transactions on Neural Networks and Learning Systems, 2024*  
+- **Gen-JEMA: Enhanced Explainability using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition** – *Journal of Intelligent Manufacturing, 2025*  
 - **JEMA-SINDYc: End-to-End Control using Joint Embedding Multimodal Alignment in Directed Energy Deposition** – 2025  
+- **Offline SINDYc-Guided Reinforcement Learning: Developing an End-to-End Control System for Directed Energy Deposition** – 2025  
+- **End-to-End Solution for Analog Gauge Monitoring Using Computer Vision in an IoT Platform** – *Sensors, 2023*  
+- **Development of an Analog Gauge Reading Solution Based on Computer Vision and Deep Learning for an IoT Application** – *Telecom, 2022*  
+- **Optimization of Direct Laser Deposition of a Martensitic Steel Powder (Metco 42C) on 42CrMo4 Steel** – *Metals, 2021*  
 
 ### Conference Articles
 - **Anomaly Detection with a LSTM Autoencoder Using InfluxDB** – *Flexible Automation and Intelligent Manufacturing*, Springer Nature, 2024  
+- **Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and the MOOSE Framework** – ASME IMECE 2023, New Orleans, LA, USA.  
+- **An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition With Reinforcement Learning: A Conceptual Framework** – ASME IMECE 2022, Columbus, OH, USA. (Best Paper Award)  
+
+### Oral Presentations
+- **ISAM’23:** “Artificial Intelligence for Flawless Additive Manufacturing”, Dresden, Germany.  
+- **ASME IMECE’23:** “Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and the MOOSE Framework”, New Orleans, Louisiana, USA.  
+- **EPIA’22:** “Artificial Intelligence for Zero-Defect Manufacturing in Laser-Based Processes”, Lisbon, Portugal.  
+- **ASME IMECE’22:** “An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning”, Columbus, Ohio, USA.  
 
 ### Master Thesis Supervision
-- **Tomás Cunha, 2022:** *Conception and Simulation of a Robotic Cell Based on the Digital Twin Concept for Industrial Manufacturing*  
-- **António Simões Alves, 2025:** *Computer Vision and AI for Monitoring the Melt Pool*  
 
-## 📞 Contact
-- **Location:** Porto, Portugal  
-- **Email:** Jpsousa.ai.96@gmail.com  
-- **LinkedIn:** [linkedin.com/in/joao-sousa96](https://linkedin.com/in/joao-sousa96)  
-- **ORCID:** 0000-0003-3879-6908
+- **Tomás Cunha, 2022:** *Conception and Simulation of a Robotic Cell Based on the Digital Twin Concept for Industrial Manufacturing*  
+  - FEUP | Co-supervised | Developed a robotic digital twin for a manufacturing line.
+
+- **Francisco Silva, 2022:** *Digitalization of CNC Machines: A Condition Monitoring System*  
+  - FEUP | Co-supervised | Implemented a system for real-time condition monitoring of CNC machines.
+
+- **António Luís Paiva, 2024:** *Application of Convolutional Neural Networks for Monitoring Laser Melting Deposition Processes*  
+  - FEUP | Co-supervised | Developing a CNN-based model for in-situ monitoring of laser-based manufacturing.
+
+- **José Pedro Ferreira, 2024:** *Generative Multimodal Learning for In-situ Monitoring in Direct Energy Deposition*  
+  - FEUP | Co-supervised | Applying generative AI models for multimodal analysis in additive manufacturing.
+
+- **António Simões Alves, 2025:** *Computer Vision and AI for Monitoring the Melt Pool*  
+  - FEUP | Ongoing | Applying deep learning for real-time monitoring in laser additive manufacturing.
