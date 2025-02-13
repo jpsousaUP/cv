@@ -64,7 +64,7 @@ _My main interest lies in developing AI systems to address real-world problems._
   Certificate Link
 
 - **Generative Deep Learning with TensorFlow, Coursera** (_Aug 2023_)  
-  Gained practical experience in advanced deep learning techniques including neural style transfer, autoencoders (DNN/CNN), variational autoencoders (VAEs) for data generation, and GANs for synthetic image creation, with a focus on model design and optimization.
+  Gained practical experience in advanced deep learning techniques including neural style transfer, autoencoders (DNN/CNN), variational autoencoders (VAEs) for data generation, and GANs for synthetic image creation, focusing on model design and optimization.
 
 - **Deep Learning Specialization, Coursera** (_Jun 2023_)  
   Mastered foundational deep learning concepts including CNNs, RNNs, LSTMs, and Transformers, with techniques such as dropout and batch normalization. Applied Python and TensorFlow to real-world tasks such as natural language processing, speech recognition, and machine translation.
@@ -76,7 +76,7 @@ _My main interest lies in developing AI systems to address real-world problems._
 
 ## 💼 Professional Experience
 
-**FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://www.liacc.up.pt/" target="_blank">LIACC</a> (_Since 2022_)**
+**FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://liacc.fe.up.pt/" target="_blank">LIACC</a> (_Since 2022_)**
 
 - Conceptualized and developed my PhD work focused on applying AI to monitor and control laser-based additive manufacturing processes.
 - Developed a ROS 2 application for process digitalization, data management, and real-time end-to-end AI control.
@@ -90,14 +90,11 @@ _My main interest lies in developing AI systems to address real-world problems._
 - Worked on projects involving data storage and management, edge and cloud computing, and industrial automation engineering.
 - Assisted in the conceptualization and drafting of national and European project proposals.
 
-
-
 **Research Fellow @ <a href="https://www.fe.up.pt/en/" target="_blank">FEUP - INEGI</a> (_2018–2019_)**
 - Development of Master thesis: “Development of a Control Unit and Data Acquisition System for a Sheet Metal Universal Testing Machine.”
 
 **Intern @ <a href="https://www.esi-group.com/" target="_blank">ESI - Engineering, Solutions, and Innovation</a> (_2018_)**
 - Programmed KUKA robots for R&D projects involving electric arc welding and additive manufacturing.
-
 
 
 ## 🧑‍🏫 Teaching
@@ -161,11 +158,16 @@ DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  
 
 
 ### 🎤 Oral Presentations
-1. **ISAM’23:** “Artificial Intelligence for Flawless Additive Manufacturing”, Dresden, Germany.  
-2. **ASME IMECE’23:** “Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and the MOOSE Framework”, New Orleans, Louisiana, USA.  
-3. **EPIA’22:** “Artificial Intelligence for Zero-Defect Manufacturing in Laser-Based Processes”, Lisbon, Portugal.  
-4. **ASME IMECE’22:** “An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning”, Columbus, Ohio, USA.
-5. Presented a poster at the Doctoral Congress in Engineering 2019 titled “Development of a Control Unit and Data Acquisition System for a Sheet Metal Universal Testing Machine.”  
+
+1. Company's Day 2024: **_"Autonomous AI for Next-Gen Laser Additive Manufacturing"_**, Pitch Talk, Faculty of Engineering of the University of Porto (FEUP), Porto, Portugal. [Event Video](https://www.youtube.com/watch?v=EzL8z_NMGlw)
+1. PubhD Porto 2024: **_"Application of Artificial Intelligence in Laser Additive Manufacturing"_**, Deep Learning Sessions, Porto, Portugal. [Event Details](https://www.linkedin.com/posts/deeplearningpt_pubhd-porto-x-deep-learning-sessions-tue-activity-7176658185879969794-WzvY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcDsq0BuXOOC_B2yrrzOa0GQyIbqDzDfvI)
+1. ISAM'23: **_"Artificial Intelligence for Flawless Additive Manufacturing"_**, International Symposium on Additive Manufacturing, Dresden, Germany.
+2. ASME IMECE'23: **_"Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and the MOOSE Framework"_**, ASME International Mechanical Engineering Congress and Exposition, New Orleans, Louisiana, USA.
+3. EPIA'22: **_"Artificial Intelligence for Zero-Defect Manufacturing in Laser-Based Processes"_**, Conference of the Portuguese Association for Artificial Intelligence, Lisbon, Portugal.
+4. ASME IMECE'22: **_"An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning"_**, ASME International Mechanical Engineering Congress and Exposition, Columbus, Ohio, USA.
+   
+
+
 
 ### 📚 Master Thesis Supervision
 
