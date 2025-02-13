@@ -14,6 +14,7 @@ jpsousa.ai.96@gmail.com · <a href="https://linkedin.com/in/joao-sousa96" aria-l
 ## Professional Summary
 
 PhD candidate at the University of Porto focused on applying Artificial Intelligence for real-time additive manufacturing monitoring and control. 
+
 My main interest is in building AI systems to solve real-world problems.
 
 ## Education
