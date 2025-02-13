@@ -1,8 +1,12 @@
 # João Paulo Sousa
 
 Porto, Portugal · +351 935451052  
-Jpsousa.ai.96@gmail.com · LinkedIn  
-ORCID: 0000-0003-3879-6908  
+jpsousa.ai.96@gmail.com · [LinkedIn](https://linkedin.com/in/joao-sousa96)  
+<a href="https://orcid.org/0000-0003-3879-6908" aria-label="ORCID profile">
+  <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD icon" style="vertical-align:middle;">
+  ORCID: 0000-0003-3879-6908
+</a>
+
 
 ## Professional Summary
 
