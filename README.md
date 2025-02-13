@@ -29,7 +29,7 @@
 
 #### Summary
 
-PhD candidate at the University of Porto focused on applying Artificial Intelligence for real-time additive manufacturing monitoring and control. 
+PhD candidate at the University of Porto, focusing on applying artificial intelligence to real-time monitoring and control of additive manufacturing processes.
 
 My main interest is in building AI systems to solve real-world problems.
 
@@ -44,15 +44,14 @@ My main interest is in building AI systems to solve real-world problems.
 - **Additional Tools:** Time series databases (InfluxDB), Containers (Docker), Repositories (GitHub, Bitbucket)  
 
 
-## Education
+## 🎓 Education
+- **Ph.D. in Mechanical Engineering** | <a href="https://www.up.pt/" target="_blank">University of Porto</a> (_2025_)  
+  _Focus:_ Artificial Intelligence in Laser-based Additive Manufacturing
+  _Supervisors:_ Ana Reis, Luís Paulo Reis, Armando Sousa, Frank Brueckner
+- **M.Sc. in Mechanical Engineering** | <a href="https://www.up.pt/" target="_blank">University of Porto</a> (_Sep 2014 - Jul 2019_)  
+  _Specialization:_ Automation
+  
 
-### Doctoral Program in Mechanical Engineering, University of Porto (2025)  
-**Focus:** Artificial Intelligence in Laser-based Additive Manufacturing 
-**Supervisors:** Ana Reis, Luís Paulo Reis, Armando Sousa, Frank Brueckner  
-
-### Integrated Master’s in Mechanical Engineering, University of Porto (Jul 2019)  
-**Specialization:** Automation  
-Awarded the “EDP Solidária” Merit Scholarship for the academic years 2015/16 and 2016/17.
 
 ## Training
 
@@ -149,3 +148,9 @@ Awarded the “EDP Solidária” Merit Scholarship for the academic years 2015/1
 
 - **António Simões Alves, 2025:** *Computer Vision and AI for Monitoring the Melt Pool*  
   - FEUP | Ongoing | Applying deep learning for real-time monitoring in laser additive manufacturing.
+ 
+### Grants
+
+FCT Grant
+
+Awarded the “EDP Solidária” Merit Scholarship for the academic years 2015/16 and 2016/17.
