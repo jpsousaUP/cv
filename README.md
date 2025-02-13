@@ -1,16 +1,15 @@
-0000000000000.................# João Paulo Sousa
+# João Paulo Sousa
 
 Porto, Portugal · +351 935451052  
 jpsousa.ai.96@gmail.com · 
 <a href="https://linkedin.com/in/joao-sousa96" aria-label="LinkedIn profile">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_logo_initials.png" alt="LinkedIn logo" style="vertical-align:middle; width:16px; height:16px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn logo" style="vertical-align:middle; width:16px; height:16px;">
   LinkedIn: joao-sousa96
 </a>
 <a href="https://orcid.org/0000-0003-3879-6908" aria-label="ORCID profile">
   <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD icon" style="vertical-align:middle;">
   ORCID: 0000-0003-3879-6908
 </a>
-
 
 ## Professional Summary
 
