@@ -212,7 +212,7 @@ DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  
 
 |     |     |
 |:----|:----|
-| **Name:** | **Dr. Luís Paulo Reis ** |
+| **Name:** | **Dr. Luís Paulo Reis** |
 | **Position:** |  Director of LIACC and President of the GA of APPIA |
 | **Organization:** | Faculty of Engineering, University of Porto (FEUP), Porto, Portugal |
 | **E-mail:** | <a href="mailto:lpreis@fe.up.pt">lpreis@fe.up.pt</a> |
