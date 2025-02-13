@@ -1,5 +1,5 @@
 # João Paulo Sousa
-
+### _Current Position - Genetics Intern - Syngenta_ 
 <p>
   <a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
@@ -27,11 +27,22 @@
   </a>
 </p>
 
-## Summary
+#### Summary
 
 PhD candidate at the University of Porto focused on applying Artificial Intelligence for real-time additive manufacturing monitoring and control. 
 
 My main interest is in building AI systems to solve real-world problems.
+
+#### Technical Skills:
+
+- **Programming Languages:** Python, C++, SQL  
+- **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, SciPy, stable-baselines  
+- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc) 
+- **Robotics:** ROS 2, MCAP, Foxglove  
+- **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, and LLaMa
+- **Project Management:** Managing small research teams, writing project proposals, and technical reports  
+- **Additional Tools:** Time series databases (InfluxDB), Containers (Docker), Repositories (GitHub, Bitbucket)  
+
 
 ## Education
 
@@ -61,15 +72,7 @@ Awarded the “EDP Solidária” Merit Scholarship for the academic years 2015/1
 - **Machine Learning, Coursera** (Apr 2021)  
   Completed a comprehensive introduction to machine learning, data mining, and statistical pattern recognition.
 
-## Skills
 
-- **Programming Languages:** Python, C++, SQL  
-- **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, SciPy, stable-baselines  
-- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc) 
-- **Robotics:** ROS 2, MCAP, Foxglove  
-- **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, and LLaMa
-- **Project Management:** Managing small research teams, writing project proposals, and technical reports  
-- **Additional Tools:** Time series databases (InfluxDB), Containers (Docker), Repositories (GitHub, Bitbucket)  
 
 ## Professional Experience
 
