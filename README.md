@@ -116,81 +116,47 @@ _My main interest lies in developing AI systems to address real-world problems._
 ### 📖 Journal Articles
 1. **João Sousa**, Benedikt Brandau, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, and Luís P. Reis. _"Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review."_ *IEEE Access*, 2025, pp. 1–1. (DOI: [10.1109/ACCESS.2025.3537859](https://doi.org/10.1109/ACCESS.2025.3537859))
    
-3. **João Sousa**, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. _"Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring."_ *Robotics and Computer-Integrated Manufacturing*, 2025, *92*, pp. 102892.
+3. **João Sousa**, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring."_**, *Robotics and Computer-Integrated Manufacturing*, 2025,
 DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  [Link to article](https://www.sciencedirect.com/science/article/pii/S0736584524001790)
   
-4. **João Sousa**, Roya Darabi, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. _"JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment."_ Published on *arXiv* and under review at *IEEE Transactions on Neural Networks and Learning Systems*, 2024. (arXiv: [2410.23988](https://arxiv.org/abs/2410.23988))
+4. **João Sousa**, Roya Darabi, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment."_** Published on *arXiv* and under review at *IEEE Transactions on Neural Networks and Learning Systems*, 2024. (arXiv: [2410.23988](https://arxiv.org/abs/2410.23988))
    
 5. José Ferreira, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, Luís Paulo Reis, J.M.R.S. Tavares, and **João Sousa**.  
-  _"Gen-JEMA: Enhanced Explainability using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition."_ 
+  **_"Gen-JEMA: Enhanced Explainability using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition."_** 
   Under review at *Journal of Intelligent Manufacturing*, 2025.
 
 6. **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
-  _"JEMA-SINDYc: End-to-End Control using Joint Embedding Multimodal Alignment in Directed Energy Deposition."_  
+  **_"JEMA-SINDYc: End-to-End Control using Joint Embedding Multimodal Alignment in Directed Energy Deposition."_**  
   Under review at *Additive Manufacturing*, 2025. DOI: [10.2139/ssrn.5129470](http://dx.doi.org/10.2139/ssrn.5129470)    
   Available at SSRN: [https://ssrn.com/abstract=5129470](https://ssrn.com/abstract=5129470)  
   
 7. **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
-  _"Offline SINDYc-Guided Reinforcement Learning: Developing an End-to-End Control System for Directed Energy Deposition."_  
+  **_"Offline SINDYc-Guided Reinforcement Learning: Developing an End-to-End Control System for Directed Energy Deposition."_**  
   Under review at *Engineering Applications of Artificial Intelligence*, 2025.  
  
 8. Peixoto J, **João Sousa**, Carvalho R, Santos G, Cardoso R, and Ana Reis.  
-  _"End-to-End Solution for Analog Gauge Monitoring Using Computer Vision in an IoT Platform."_  
+  **_"End-to-End Solution for Analog Gauge Monitoring Using Computer Vision in an IoT Platform."_**  
   *Sensors*, 2023. DOI: [10.3390/s23249858](https://doi.org/10.3390/s23249858)  
  
 9. Peixoto J, **João Sousa**, Carvalho R, Santos G, Mendes J, Cardoso R, and Ana Reis.  
-  _"Development of an Analog Gauge Reading Solution Based on Computer Vision and Deep Learning for an IoT Application."_  
+  **_"Development of an Analog Gauge Reading Solution Based on Computer Vision and Deep Learning for an IoT Application."_**  
   *Telecom*, 2022, DOI: [10.3390/telecom3040032](https://doi.org/10.3390/telecom3040032)  
 
 10. Ferreira A.A., Darabi R., **João P. Sousa**, Cruz J.M., Ana Reis, and M.F. Vieira.  
-  _"Optimization of Direct Laser Deposition of a Martensitic Steel Powder (Metco 42C) on 42CrMo4 Steel."_  
+  **_"Optimization of Direct Laser Deposition of a Martensitic Steel Powder (Metco 42C) on 42CrMo4 Steel."_**  
   *Metals*, 2021, DOI: [10.3390/met11040672](https://doi.org/10.3390/met11040672)
 
 
 ### 📢 Conference Articles
 
-1. **Anomaly Detection with a LSTM Autoencoder Using InfluxDB**  
-   *Flexible Automation and Intelligent Manufacturing*, Springer Nature, 2024. DOI: [10.1007/978-3-031-38165-2_9](https://doi.org/10.1007/978-3-031-38165-2_9)
-
-2. **Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and the MOOSE Framework**  
-   *Proceedings of the ASME 2023 International Mechanical Engineering Congress and Exposition*, Volume 3: Advanced Manufacturing, New Orleans, Louisiana, USA, October 29–November 2, 2023. DOI: [10.1115/IMECE2023-113629](https://doi.org/10.1115/IMECE2023-113629)
-
-3. **An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition With Reinforcement Learning: A Conceptual Framework**  
-   *Proceedings of the ASME 2022 International Mechanical Engineering Congress and Exposition*, Volume 2B: Advanced Manufacturing, Columbus, Ohio, USA, October 30–November 3, 2022. DOI: [10.1115/IMECE2022-95055](https://doi.org/10.1115/IMECE2022-95055)
-(Best Paper Award)  
-
-
-### Conference Articles
-
-
-1. João Peixoto, **João Sousa**, Ricardo Carvalho, Martinho Soares, Ricardo Cardoso, and Ana Reis. _"Anomaly Detection with a LSTM Autoencoder Using InfluxDB."_ *Flexible Automation and Intelligent Manufacturing*, 2024, *Lecture Notes in Mechanical Engineering*, Springer, Cham.  
+1. João Peixoto, __João Sousa__, Ricardo Carvalho, Martinho Soares, Ricardo Cardoso, and Ana Reis. **_"Anomaly Detection with a LSTM Autoencoder Using InfluxDB."_** *Flexible Automation and Intelligent Manufacturing*, 2024, *Lecture Notes in Mechanical Engineering*, Springer, Cham.  
    DOI: [10.1007/978-3-031-38165-2_9](https://doi.org/10.1007/978-3-031-38165-2_9)
 
-2. **João Sousa**, Roya Darabi, Armando Sousa, Luís Paulo Reis, Frank Brueckner, Ana Reis, and J.C. de Sá. _"Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and MOOSE Framework."_ *Proceedings of the ASME 2023 International Mechanical Engineering Congress and Exposition*, Volume 3: Advanced Manufacturing, New Orleans, LA, USA, October 29–November 2, 2023.  
+2. **João Sousa**, Roya Darabi, Armando Sousa, Luís Paulo Reis, Frank Brueckner, Ana Reis, and J.C. de Sá. **_"Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and MOOSE Framework."_**, *Proceedings of the ASME 2023 International Mechanical Engineering Congress and Exposition*, Volume 3: Advanced Manufacturing, New Orleans, LA, USA, October 29–November 2, 2023.  
    DOI: [10.1115/IMECE2023-113629](https://doi.org/10.1115/IMECE2023-113629)
 
-3. **João Sousa**, Roya Darabi, Ana Reis, M. Parente, Luís Paulo Reis, and J.C. de Sá. _"An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition With Reinforcement Learning: A Conceptual Framework."_ *Proceedings of the ASME 2022 International Mechanical Engineering Congress and Exposition*, Volume 2B: Advanced Manufacturing, Columbus, OH, USA, October 30–November 3, 2022.  
+3. **João Sousa**, Roya Darabi, Ana Reis, M. Parente, Luís Paulo Reis, and J.C. de Sá. **_"An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition With Reinforcement Learning: A Conceptual Framework."_**, *Proceedings of the ASME 2022 International Mechanical Engineering Congress and Exposition*, Volume 2B: Advanced Manufacturing, Columbus, OH, USA, October 30–November 3, 2022.  
    DOI: [10.1115/IMECE2022-95055](https://doi.org/10.1115/IMECE2022-95055)
-
-
-
-1. **Anomaly Detection with a LSTM Autoencoder Using InfluxDB**  
-   *Authors:* João Peixoto, João Sousa, Ricardo Carvalho, Martinho Soares, Ricardo Cardoso, Ana Reis  
-   *Published in:* Flexible Automation and Intelligent Manufacturing: Establishing Bridges for More Sustainable Manufacturing Systems, FAIM 2023. Lecture Notes in Mechanical Engineering. Springer, Cham, 2024.  
-   *DOI:* [10.1007/978-3-031-38165-2_9](https://doi.org/10.1007/978-3-031-38165-2_9)  
-   *Summary:* This study presents a solution using a Long Short-Term Memory (LSTM) autoencoder to detect abnormal behavior in an industrial machine temperature sensor. :contentReference[oaicite:0]{index=0}
-
-2. **Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and the MOOSE Framework**  
-   *Authors:* João Sousa, Roya Darabi, Armando Sousa, Luís Paulo Reis, Frank Brueckner, Ana Reis, José César de Sá  
-   *Published in:* Proceedings of the ASME 2023 International Mechanical Engineering Congress and Exposition, Volume 3: Advanced Manufacturing, New Orleans, Louisiana, USA, October 29–November 2, 2023.  
-   *DOI:* [10.1115/IMECE2023-113629](https://doi.org/10.1115/IMECE2023-113629)  
-   *Summary:* This paper discusses the application of Reinforcement Learning (RL) to improve temperature control in Directed Energy Deposition (DED) processes, addressing challenges related to standardization and sample efficiency. :contentReference[oaicite:1]{index=1}
-
-3. **An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning: A Conceptual Framework**  
-   *Authors:* João Sousa, Roya Darabi, Ana Reis, Miguel Parente, Luís Paulo Reis, José César de Sá  
-   *Published in:* Proceedings of the ASME 2022 International Mechanical Engineering Congress and Exposition, Volume 2B: Advanced Manufacturing, Columbus, Ohio, USA, October 30–November 3, 2022.  
-   *DOI:* [10.1115/IMECE2022-95055](https://doi.org/10.1115/IMECE2022-95055)  
-   *Summary:* This work presents a conceptual framework for integrating thermal finite element simulations with Reinforcement Learning to enhance the DED process.
 
 
 
