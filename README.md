@@ -5,7 +5,7 @@
   Porto, Portugal
 </a> · 
 <a href="tel:+351935451052" aria-label="Call +351 935451052">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Telephone_icon.svg" alt="Telephone icon" style="vertical-align:middle; width:16px; height:16px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Deepin_Icon_Theme_%E2%80%93_deepin-phone-assistant_%28edited%29.svg" alt="Telephone icon" style="vertical-align:middle; width:16px; height:16px;">
   +351 935451052
 </a> · 
 
