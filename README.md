@@ -73,40 +73,42 @@ My main interest is in building AI systems to solve real-world problems.
 
 
 
-## Professional Experience
+## 💼 Professional Experience
 
-### FCT Research Fellow (Since 2022)
+**FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, @ <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://www.liacc.up.pt/" target="_blank">LIACC</a> (Since 2022)**
+
 - Conceptualized and developed my PhD work focused on applying AI to monitor and control laser-based additive manufacturing processes.
+- Developed a ROS 2 application for process digitalization, data management, and real-time end-to-end AI control.
 - Performed sampling and process optimization using Bayesian Optimization.
-- Developed a new loss function (JEMA) based on supervised contrastive learning and representation learning.
+- Created a multimodal AI model for process monitoring and developed a new loss function (JEMA) based on supervised contrastive learning and representation learning.
 - Designed and implemented an end-to-end AI-based controller using offline reinforcement learning.
-
-### Applied AI Researcher, Fraunhofer IWS (Since 2024)
-- Developed a ROS 2 application for process digitalization and data management.
-- Created a multimodal AI model for process monitoring.
-- Developed a real-time end-to-end AI controller.
-
-### Invited Professor and Member of LIACC, University of Porto (Since 2022)
-- Assisted in teaching bachelor’s and master’s courses in mechanical engineering, including:
-  - **Industrial Automation:** Programming and industrial instrumentation.
-  - **Industrial Computing:** Programming and field networking with applications for industrial systems.
 - Active member of LIACC (Laboratory of Artificial Intelligence and Computer Science).
 
-### Product and Systems Development Engineer, INEGI (2019–2022)
-- Contributed as a member of the automation team within the Advanced Manufacturing Technologies unit.
+
+**Product and Systems Development Engineer @ <a href="https://www.inegi.up.pt/en/" target="_blank">INEGI</a> (2019–2022)**
 - Worked on projects involving data storage and management, edge and cloud computing, and industrial automation engineering.
 - Assisted in the conceptualization and drafting of national and European project proposals.
 
-### Invited Professor, ISQ (Since Feb 2021)
+
+
+**Research Fellow @ <a href="https://www.fe.up.pt/en/" target="_blank">FEUP - INEGI</a> (2018–2019)**
+- Development of Master thesis: “Development of a Control Unit and Data Acquisition System for a Sheet Metal Universal Testing Machine.”
+
+**Intern @ <a href="https://www.esi-group.com/" target="_blank">ESI - Engineering, Solutions, and Innovation</a> (Jul–Sep 2018)**
+- Programmed KUKA robots for R&D projects involving electric arc welding and additive manufacturing.
+
+
+
+## 🧑‍🏫 Teaching
+
+**Invited Professor and Member of <a href="https://www.liacc.up.pt/" target="_blank">LIACC</a> @ <a href="https://www.up.pt/" target="_blank">University of Porto</a> (Since 2022)**
+- Assisted in teaching bachelor’s and master’s courses in mechanical engineering, including:
+  - Industrial Automation: Programming and industrial instrumentation.
+  - Industrial Computing: Programming and field networking with applications for industrial systems.
+
+**Invited Professor @ <a href="https://www.isq.pt/" target="_blank">ISQ</a> (Since Feb 2021)**
 - Collaborated on a Welding Engineering Specialization course per the EWF Directive (IWE: International Welding Engineer).
 - Taught "Automation and Robotics" for a 9-hour course.
-
-### Research Fellow, FEUP - INEGI (2018–2019)
-- Participated in a research group focused on retrofitting testing machines to meet Industry 4.0 capabilities and validating numerical simulations through experimental tests.
-- Presented a poster at the Doctoral Congress in Engineering 2019 titled “Development of a Control Unit and Data Acquisition System for a Sheet Metal Universal Testing Machine.”
-
-### Intern, ESI - Engineering, Solutions, and Innovation (Jul–Sep 2018)
-- Programmed KUKA robots for R&D projects involving electric arc welding and additive manufacturing.
 
 ## Scientific Production
 
@@ -130,7 +132,8 @@ My main interest is in building AI systems to solve real-world problems.
 - **ISAM’23:** “Artificial Intelligence for Flawless Additive Manufacturing”, Dresden, Germany.  
 - **ASME IMECE’23:** “Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and the MOOSE Framework”, New Orleans, Louisiana, USA.  
 - **EPIA’22:** “Artificial Intelligence for Zero-Defect Manufacturing in Laser-Based Processes”, Lisbon, Portugal.  
-- **ASME IMECE’22:** “An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning”, Columbus, Ohio, USA.  
+- **ASME IMECE’22:** “An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning”, Columbus, Ohio, USA.
+- Presented a poster at the Doctoral Congress in Engineering 2019 titled “Development of a Control Unit and Data Acquisition System for a Sheet Metal Universal Testing Machine.”  
 
 ### Master Thesis Supervision
 
