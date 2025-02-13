@@ -53,7 +53,7 @@ My main interest is in building AI systems to solve real-world problems.
   
 
 
-## Training
+## 💻 Training
 
 - **Agents Course, Hugging Face Learn** (Currently Ongoing)  
   Enrolled in Hugging Face's "Agents Course," gaining hands-on experience with building agents for real-world applications using modern natural language processing and machine learning frameworks.
