@@ -2,7 +2,7 @@
 name: "João Paulo Sousa"
 location: "Porto, Portugal"
 phone: "+351 935451052"
-email: "Jpsousa.ai.96@gmail.com"
+email: "jpsousa.ai.96@gmail.com"
 linkedin: "https://linkedin.com/in/joao-sousa96"
 orcid: "0000-0003-3879-6908"
 ---
