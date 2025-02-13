@@ -200,3 +200,32 @@ DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  
 - **"EDP Solidária" Merit Scholarship** (_2015–2017_)
 
 
+## 👥 References
+
+|     |     |
+|:----|:----|
+| **Name:** | **Dr. Ana Reis** |
+| **Position:** | Pro-Director DEMec |
+| **Organization:** | Faculty of Engineering, University of Porto (FEUP), Porto, Portugal |
+| **E-mail:** | <a href="mailto:arlr@fe.up.pt">arlr@fe.up.pt</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/in/ana-rosanete-reis-ba4b29a/" target="_blank">Visit Page</a> |
+
+|     |     |
+|:----|:----|
+| **Name:** | **Dr. Luís Paulo Reis ** |
+| **Position:** |  Director of LIACC and President of the GA of APPIA |
+| **Organization:** | Faculty of Engineering, University of Porto (FEUP), Porto, Portugal |
+| **E-mail:** | <a href="mailto:lpreis@fe.up.pt">lpreis@fe.up.pt</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/in/lpreis/" target="_blank">Visit Page</a> |
+
+|     |     |
+|:----|:----|
+| **Name:** | **Dr. Frank Brueckner** |
+| **Position:** | Technology Field Manager, Additive Manufacturing and Surface Technology |
+| **Organization:** | Fraunhofer Institute for Material and Beam Technology IWS, Dresden, Germany |
+| **E-mail:** | <a href="mailto:Frank.Brueckner@iws.fraunhofer.de">Frank.Brueckner@iws.fraunhofer.de</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/in/frank-br%C3%BCckner-0b3861201/" target="_blank">Visit Page</a> |
+|     |     |
+
+
+
