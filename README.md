@@ -43,7 +43,7 @@ _My main interest lies in developing AI systems to address real-world problems._
 - **Project Management:** Managing small research teams, writing project proposals, and technical reports  
 - **Additional Tools:** Time series databases (InfluxDB), Containers (Docker), Repositories (GitHub, Bitbucket)  
 
-
+<br>
 ## 🎓 Education
 - **Ph.D. in Mechanical Engineering** | <a href="https://www.up.pt/" target="_blank">University of Porto</a> (_2025_)  
   _Focus:_ Artificial Intelligence in Laser-based Additive Manufacturing <br>
@@ -53,7 +53,7 @@ _My main interest lies in developing AI systems to address real-world problems._
   _Specialization:_ Automation
   
 
-
+<br>
 ## 💻 Training
 
 - **Agents Course, Hugging Face Learn** (Currently Ongoing)  
@@ -73,7 +73,7 @@ _My main interest lies in developing AI systems to address real-world problems._
   Completed a comprehensive introduction to machine learning, data mining, and statistical pattern recognition.
 
 
-
+<br>
 ## 💼 Professional Experience
 
 **FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://liacc.fe.up.pt/" target="_blank">LIACC</a> (_Since 2022_)**
@@ -96,7 +96,7 @@ _My main interest lies in developing AI systems to address real-world problems._
 **Intern @ <a href="https://www.esi-group.com/" target="_blank">ESI - Engineering, Solutions, and Innovation</a> (_2018_)**
 - Programmed KUKA robots for R&D projects involving electric arc welding and additive manufacturing.
 
-
+<br>
 ## 🧑‍🏫 Teaching
 
 **Invited Professor and Member of <a href="https://www.liacc.up.pt/" target="_blank">LIACC</a> @ <a href="https://www.up.pt/" target="_blank">University of Porto</a> (Since 2022)**
@@ -108,7 +108,7 @@ _My main interest lies in developing AI systems to address real-world problems._
 - Collaborated on a Welding Engineering Specialization course per the EWF Directive (IWE: International Welding Engineer).
 - Taught "Automation and Robotics" for a 9-hour course.
 
-
+<br>
 ## 🔬 Scientific Production
 
 ### 📖 Journal Articles
@@ -186,7 +186,7 @@ DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  
 - **António Simões Alves, 2025:** *Computer Vision and AI for Monitoring the Melt Pool*  
   FEUP | Ongoing | Applying deep learning for real-time monitoring in laser additive manufacturing.
 
-
+<br>
 ## 🏆 Grants and Awards
 
 - **3rd Runner-Up - Best Paper Award**, *IMECE'22*: *"An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning"*
@@ -199,7 +199,7 @@ DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  
 
 - **"EDP Solidária" Merit Scholarship** (_2015–2017_)
 
-
+<br>
 ## 👥 References
 
 |     |     |
