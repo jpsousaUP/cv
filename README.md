@@ -115,14 +115,35 @@ _My main interest lies in developing AI systems to address real-world problems._
 
 ### Journal Articles
 - **João Sousa**, Benedikt Brandau, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, and Luís P. Reis. _"Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review."_ *IEEE Access*, 2025, pp. 1–1. (DOI: [10.1109/ACCESS.2025.3537859](https://doi.org/10.1109/ACCESS.2025.3537859)) 
-- **Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring** – *Robotics and Computer-Integrated Manufacturing, 2024*  
-- **JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment** – *IEEE Transactions on Neural Networks and Learning Systems, 2024*  
-- **Gen-JEMA: Enhanced Explainability using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition** – *Journal of Intelligent Manufacturing, 2025*  
-- **JEMA-SINDYc: End-to-End Control using Joint Embedding Multimodal Alignment in Directed Energy Deposition** – 2025  
-- **Offline SINDYc-Guided Reinforcement Learning: Developing an End-to-End Control System for Directed Energy Deposition** – 2025  
-- **End-to-End Solution for Analog Gauge Monitoring Using Computer Vision in an IoT Platform** – *Sensors, 2023*  
-- **Development of an Analog Gauge Reading Solution Based on Computer Vision and Deep Learning for an IoT Application** – *Telecom, 2022*  
-- **Optimization of Direct Laser Deposition of a Martensitic Steel Powder (Metco 42C) on 42CrMo4 Steel** – *Metals, 2021*  
+- **João Sousa**, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. _"Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring."_ *Robotics and Computer-Integrated Manufacturing*, 2025, *92*, pp. 102892.
+DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  [Link to article](https://www.sciencedirect.com/science/article/pii/S0736584524001790)
+  
+- **João Sousa**, Roya Darabi, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. _"JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment."_ Published on *arXiv* and under review at *IEEE Transactions on Neural Networks and Learning Systems*, 2024. (arXiv: [2410.23988](https://arxiv.org/abs/2410.23988))  
+- José Ferreira, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, Luís Paulo Reis, J.M.R.S. Tavares, and **João Sousa**.  
+  _"Gen-JEMA: Enhanced Explainability using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition."_ 
+  Under review at *Journal of Intelligent Manufacturing*, 2025.  
+
+- **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
+  _"JEMA-SINDYc: End-to-End Control using Joint Embedding Multimodal Alignment in Directed Energy Deposition."_  
+  Under review at *Additive Manufacturing*, 2025. DOI: [10.2139/ssrn.5129470](http://dx.doi.org/10.2139/ssrn.5129470)    
+  Available at SSRN: [https://ssrn.com/abstract=5129470](https://ssrn.com/abstract=5129470)  
+  
+- **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
+  _"Offline SINDYc-Guided Reinforcement Learning: Developing an End-to-End Control System for Directed Energy Deposition."_  
+  Under review at *Engineering Applications of Artificial Intelligence*, 2025.  
+ 
+- Peixoto J, **João Sousa**, Carvalho R, Santos G, Cardoso R, and Ana Reis.  
+  _"End-to-End Solution for Analog Gauge Monitoring Using Computer Vision in an IoT Platform."_  
+  *Sensors*, 2023. DOI: [10.3390/s23249858](https://doi.org/10.3390/s23249858)  
+ 
+- Peixoto J, **João Sousa**, Carvalho R, Santos G, Mendes J, Cardoso R, and Ana Reis.  
+  _"Development of an Analog Gauge Reading Solution Based on Computer Vision and Deep Learning for an IoT Application."_  
+  *Telecom*, 2022, DOI: [10.3390/telecom3040032](https://doi.org/10.3390/telecom3040032)  
+
+- Ferreira A.A., Darabi R., **João P. Sousa**, Cruz J.M., Ana Reis, and M.F. Vieira.  
+  _"Optimization of Direct Laser Deposition of a Martensitic Steel Powder (Metco 42C) on 42CrMo4 Steel."_  
+  *Metals*, 2021, DOI: [10.3390/met11040672](https://doi.org/10.3390/met11040672)
+
 
 ### Conference Articles
 - **Anomaly Detection with a LSTM Autoencoder Using InfluxDB** – *Flexible Automation and Intelligent Manufacturing*, Springer Nature, 2024  
