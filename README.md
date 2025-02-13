@@ -169,7 +169,6 @@ DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  
    
 
 
-
 ### 📚 Master Thesis Supervision
 
 - **Tomás Cunha, 2022:** *Conception and Simulation of a Robotic Cell Based on the Digital Twin Concept for Industrial Manufacturing*  
@@ -186,9 +185,18 @@ DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  
 
 - **António Simões Alves, 2025:** *Computer Vision and AI for Monitoring the Melt Pool*  
   FEUP | Ongoing | Applying deep learning for real-time monitoring in laser additive manufacturing.
- 
-## Grants and awards
 
-FCT Grant
 
-Awarded the “EDP Solidária” Merit Scholarship for the academic years 2015/16 and 2016/17.
+## 🏆 Grants and Awards
+
+- **3rd Runner-Up - Best Paper Award**, *IMECE'22*: *"An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning"*
+
+- **PhD Scholarship**, Fundação para a Ciência e a Tecnologia (FCT), Portugal, Grant number 2022.09967.BD (_Since 2022_)
+
+- **CUT3D Project**, Agência Nacional de Inovação SA, Grant number C30/2020/69933 (_2021_)
+
+- **Watch4ming Project**, Fundação para a Ciência e a Tecnologia (FCT), Grant number POCI-01-0145-FEDER-016876 (_2018–2019_)
+
+- **"EDP Solidária" Merit Scholarship** (_2015–2017_)
+
+
