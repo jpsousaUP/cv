@@ -4,7 +4,7 @@ logo: Joao_bio.png # Use a relative path to logo image
 
 description: AI Researcher and Engineer. # Fix hyphenation 
 
-show_downloads: true # Fix spelling
+show_downloads: false # Fix spelling
 
 theme: jekyll-theme-minimal 
 
