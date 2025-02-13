@@ -1,10 +1,23 @@
 # João Paulo Sousa
 
-Porto, Portugal · +351 935451052  
-jpsousa.ai.96@gmail.com · 
+<a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Map_pin_icon.svg" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
+  Porto, Portugal
+</a>
+
+<a href="tel:+351935451052" aria-label="Call +351 935451052">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Telephone_icon.svg" alt="Telephone icon" style="vertical-align:middle; width:16px; height:16px;">
+  +351 935451052
+</a>
+
+<a href="mailto:jpsousa.ai.96@gmail.com" aria-label="Email">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail logo" style="vertical-align:middle; width:16px; height:16px;">
+  jpsousa.ai.96@gmail.com
+</a>
+
 <a href="https://linkedin.com/in/joao-sousa96" aria-label="LinkedIn profile">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn logo" style="vertical-align:middle; width:16px; height:16px;">
-  LinkedIn: joao-sousa96
+  LinkedIn
 </a>
 <a href="https://orcid.org/0000-0003-3879-6908" aria-label="ORCID profile">
   <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD icon" style="vertical-align:middle;">
