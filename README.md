@@ -1,4 +1,3 @@
-# João Paulo Sousa
 ### _Current Position - AI Researcher @LIACC @Fraunhofer IWS @INEGI_ 
 <p>
   <a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
