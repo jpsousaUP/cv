@@ -57,20 +57,19 @@ _My main interest lies in developing AI systems to address real-world problems._
 
 - **Agents Course, Hugging Face Learn** (_Mar 2024_)  
   Enrolled in Hugging Face's "Agents Course," gaining hands-on experience with building agents for real-world applications using modern natural language processing and machine learning frameworks.  
-  [Certificate Link](https://cdn-lfs-us-1.hf.co/repos/f2/34/f2344151f60f6027c436821dc61cf3f27a46435de57df8df50ad02b5acca7c07/dd4e7fa174bcf8b6c29b25f59be28fe8e6229458a56053ca573cd37542c39852?response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-03-10.png%3B+filename%3D%222025-03-10.png%22%3B&response-content-type=image%2Fpng&Expires=1741625929&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MTYyNTkyOX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zL2YyLzM0L2YyMzQ0MTUxZjYwZjYwMjdjNDM2ODIxZGM2MWNmM2YyN2E0NjQzNWRlNTdkZjhkZjUwYWQwMmI1YWNjYTdjMDcvZGQ0ZTdmYTE3NGJjZjhiNmMyOWIyNWY1OWJlMjhmZThlNjIyOTQ1OGE1NjA1M2NhNTczY2QzNzU0MmMzOTg1Mj9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=SV9F9BPuvlURB65izgysu80DTeayVtM%7Eli%7E6wTL-UKj63%7EELV1tE1PXV-089hOzCNbzDYkr6NvwW4GchWK7xur0mudTAA5FYKz-cELxRMdBgauhzOHJpCt4jSParrT-Ksd5jbMdYXmSoGBavcCYEuCAMTMj5m1kRAQudAAM2w1F7QGaDSTcuOaBCwh50XvkQVfCw6bOdanR6C6ugdKk9UPTWrkHMGSGP7oc8j6LH2Z7XNljZ3AgCvI7HA2PCYhoptg5iZMsPOMhIgagmFISkJXCjp0JokB59ldvHQnsv5nIpfZSCac0OlzIiZJPsBzZghliZ0p9TIxqj%7EzT8GUZphw__&Key-Pair-Id=K24J24Z295AEI9)
+ [Certificate Link](https://cdn-lfs-us-1.hf.co/repos/f2/34/f2344151f60f6027c436821dc61cf3f27a46435de57df8df50ad02b5acca7c07/dd4e7fa174bcf8b6c29b25f59be28fe8e6229458a56053ca573cd37542c39852?response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-03-10.png%3B+filename%3D%222025-03-10.png%22%3B&response-content-type=image%2Fpng&Expires=1741625929&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MTYyNTkyOX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zL2YyLzM0L2YyMzQ0MTUxZjYwZjYwMjdjNDM2ODIxZGM2MWNmM2YyN2E0NjQzNWRlNTdkZjhkZjUwYWQwMmI1YWNjYTdjMDcvZGQ0ZTdmYTE3NGJjZjhiNmMyOWIyNWY1OWJlMjhmZThlNjIyOTQ1OGE1NjA1M2NhNTczY2QzNzU0MmMzOTg1Mj9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=SV9F9BPuvlURB65izgysu80DTeayVtM%7Eli%7E6wTL-UKj63%7EELV1tE1PXV-089hOzCNbzDYkr6NvwW4GchWK7xur0mudTAA5FYKz-cELxRMdBgauhzOHJpCt4jSParrT-Ksd5jbMdYXmSoGBavcCYEuCAMTMj5m1kRAQudAAM2w1F7QGaDSTcuOaBCwh50XvkQVfCw6bOdanR6C6ugdKk9UPTWrkHMGSGP7oc8j6LH2Z7XNljZ3AgCvI7HA2PCYhoptg5iZMsPOMhIgagmFISkJXCjp0JokB59ldvHQnsv5nIpfZSCac0OlzIiZJPsBzZghliZ0p9TIxqj%7EzT8GUZphw__&Key-Pair-Id=K24J24Z295AEI9)
 
 
 
 - **Introducing Multimodal Llama 3.2, DeepLearning.AI** (_Oct 2024_)    
-Learned key features of Llama 3.2, including image classification, vision reasoning, tool use, prompting, tokenization, and the Llama stack for building AI applications.  
-[Certificate Link](https://learn.deeplearning.ai/accomplishments/b72182b5-0242-4595-bab1-6d4640f7f37a?usp=sharing)
+Learned key features of Llama 3.2, including image classification, vision reasoning, tool use, prompting, tokenization, and the Llama stack for building AI applications. [Certificate Link](https://learn.deeplearning.ai/accomplishments/b72182b5-0242-4595-bab1-6d4640f7f37a?usp=sharing)
 
 
 - **Generative Deep Learning with TensorFlow, Coursera** (_Aug 2023_)  
-  Gained practical experience in advanced deep learning techniques including neural style transfer, autoencoders (DNN/CNN), variational autoencoders (VAEs) for data generation, and GANs for synthetic image creation, focusing on model design and optimization.
+  Gained practical experience in advanced deep learning techniques including neural style transfer, autoencoders (DNN/CNN), variational autoencoders (VAEs) for data generation, and GANs for synthetic image creation, focusing on model design and optimization.  [Certificate Link](https://coursera.org/share/81f46c9c6eaa8adb7566d0627e08325d)
 
 - **Deep Learning Specialization, Coursera** (_Jun 2023_)  
-  Mastered foundational deep learning concepts including CNNs, RNNs, LSTMs, and Transformers, with techniques such as dropout and batch normalization. Applied Python and TensorFlow to real-world tasks such as natural language processing, speech recognition, and machine translation.
+  Mastered foundational deep learning concepts including CNNs, RNNs, LSTMs, and Transformers, with techniques such as dropout and batch normalization. Applied Python and TensorFlow to real-world tasks such as natural language processing, speech recognition, and machine translation. [Certificate Link](https://www.credly.com/badges/2a406f2e-543c-4481-be30-f418e3cc04fd/linked_in_profile)
 
 - **Machine Learning, Coursera** (_Apr 2021_)  
   Completed a comprehensive introduction to machine learning, data mining, and statistical pattern recognition.
