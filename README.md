@@ -1,4 +1,4 @@
-### _Current Position - AI Researcher @LIACC @Fraunhofer IWS @INEGI_ 
+### AI Researcher @LIACC @Fraunhofer IWS @INEGI_ 
 <p>
   <a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
