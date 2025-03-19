@@ -1,29 +1,29 @@
-### AI Researcher @LIACC @Fraunhofer IWS @INEGI_ 
+### AI Researcher @LIACC @Fraunhofer IWS @INEGI_
 <p>
-  <a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
-    Porto, Portugal
-  </a>
-  <span style="margin: 0 8px;">|</span>
-  <img src="https://commons.wikimedia.org/wiki/Category:Telephone_icons#/media/File:ISO_7001_PI_PF_017.svg" alt="Phone logo" style="vertical-align:middle; width:16px; height:16px;">
-  <span style="margin-left: 4px;">+351 935451052</span>
+ <a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ISO_7001_PF_017.svg/16px-ISO_7001_PF_017.svg.png" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
+  Porto, Portugal
+ </a>
+ <span style="margin: 0 8px;">|</span>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ISO_7001_PF_017.svg/16px-ISO_7001_PF_017.svg.png" alt="Phone logo" style="vertical-align:middle; width:16px; height:16px;">
+ <span style="margin-left: 4px;">+351 935451052</span>
 </p>
 
 <p>
-  <a href="mailto:jpsousa.ai.96@gmail.com" aria-label="Email">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail logo" style="vertical-align:middle; width:16px; height:16px;">
-    jpsousa.ai.96@gmail.com
-  </a>
-  <span style="margin: 0 8px;">|</span>
-  <a href="https://linkedin.com/in/joao-sousa96" aria-label="LinkedIn profile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn logo" style="vertical-align:middle; width:16px; height:16px;">
-    LinkedIn
-  </a>
-  <span style="margin: 0 8px;">|</span>
-  <a href="https://orcid.org/0000-0003-3879-6908" aria-label="ORCID profile">
-    <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD icon" style="vertical-align:middle;">
-    ORCID: 0000-0003-3879-6908
-  </a>
+ <a href="mailto:jpsousa.ai.96@gmail.com" aria-label="Email">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail logo" style="vertical-align:middle; width:16px; height:16px;">
+  jpsousa.ai.96@gmail.com
+ </a>
+ <span style="margin: 0 8px;">|</span>
+ <a href="https://linkedin.com/in/joao-sousa96" aria-label="LinkedIn profile">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn logo" style="vertical-align:middle; width:16px; height:16px;">
+  LinkedIn
+ </a>
+ <span style="margin: 0 8px;">|</span>
+ <a href="https://orcid.org/0000-0003-3879-6908" aria-label="ORCID profile">
+  <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD icon" style="vertical-align:middle;">
+  ORCID: 0000-0003-3879-6908
+ </a>
 </p>
 
 #### Summary
