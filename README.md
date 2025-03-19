@@ -19,13 +19,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn logo" style="vertical-align:middle; width:16px; height:16px;">
     LinkedIn
   </a>
-  <span style="margin: 0 8px;">|</span>
+</p>
+
+<p>
   <a href="https://orcid.org/0000-0003-3879-6908" aria-label="ORCID profile">
     <img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" alt="ORCID iD icon" style="vertical-align:middle;">
     ORCID: 0000-0003-3879-6908
   </a>
 </p>
-
 
 #### Summary
 
