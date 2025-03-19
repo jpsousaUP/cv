@@ -1,17 +1,19 @@
 ### AI Researcher @LIACC @Fraunhofer IWS @INEGI_
 <p>
-  <a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
-    Porto, Portugal
-  </a>
-  <span style="margin: 0 8px;">|</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/ISO_7001_PF_017.svg" alt="Phone logo" style="vertical-align:middle; width:16px; height:16px;">
-  <span style="margin-left: 4px;">+351 935451052</span>
+ <a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
+  Porto, Portugal
+ </a>
+ <span style="margin: 0 8px;">|</span>
+ <span style="vertical-align:middle;">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.29.96-.04l4.26 2.09c.33.16.86.13 1.14-.02l2.2-2.2c.27-.27.29-.67.04-.96l-4.26-2.09c-.33-.16-.86-.13-1.14.02l-2.2 2.2c-1.44-2.83-3.76-5.14-6.59-6.59l2.2 2.2c.27.27.29.67.04.96l-2.09 4.26c-.16.33-.13.86.02 1.14l2.2 2.2c.27.27.67.29.96.04l2.09-4.26c.16-.33.13-.86-.02-1.14l-2.2-2.2z"/></svg>
+</span>
+ <span style="margin-left: 4px;">+351 935451052</span>
 </p>
 
 <p>
   <a href="mailto:jpsousa.ai.96@gmail.com" aria-label="Email">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Gmail_icon_%282020%29.svg" alt="Gmail logo" style="vertical-align:middle; width:16px; height:16px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail logo" style="vertical-align:middle; width:16px; height:16px;">
     jpsousa.ai.96@gmail.com
   </a>
   <span style="margin: 0 8px;">|</span>
@@ -25,6 +27,7 @@
     ORCID: 0000-0003-3879-6908
   </a>
 </p>
+
 
 #### Summary
 
