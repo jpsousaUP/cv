@@ -6,7 +6,7 @@ description: AI Researcher and Engineer. # Fix hyphenation
 
 show_downloads: false # Fix spelling
 
-theme: kjhealy #jekyll-theme-minimal 
+theme: jekyll-theme-minimal 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
