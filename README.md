@@ -38,7 +38,7 @@ _My main interest lies in developing AI systems to address real-world problems._
 - **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, SciPy, Stable-baselines  
 - **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc.) 
 - **Robotics:** ROS 2, MCAP, Foxglove  
-- **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, and LLaMa
+- **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, Florence-2, and LLaMa
 - **Project Management:** Managing small research teams, writing project proposals, and technical reports  
 - **Additional Tools:** Time series databases (InfluxDB), Containers (Docker), Repositories (GitHub, Bitbucket)  
 
