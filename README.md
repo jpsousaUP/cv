@@ -5,7 +5,7 @@
     Porto, Portugal
   </a>
   <span style="margin: 0 8px;">|</span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/ISO_7001_PF_017.svg" alt="Phone logo" style="vertical-align:middle; width:16px; height:16px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Phone_icon.png" alt="Phone logo" style="vertical-align:middle; width:16px; height:16px;">
   <span style="margin-left: 4px;">+351 935451052</span>
 </p>
 
