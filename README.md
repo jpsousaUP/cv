@@ -107,7 +107,7 @@ Learned key features of Llama 3.2, including image classification, vision reason
   - _Industrial Automation_: Programming and industrial instrumentation.
   - _Industrial Computing_: Programming and field networking with applications for industrial systems.
 
-**Invited Professor @ <a href="https://www.isq.pt/" target="_blank">ISQ</a> (Since Feb 2021)**
+**Invited Professor @ <a href="https://www.isq.pt/" target="_blank">ISQ</a> (2021-2024)**
 - Collaborated on a Welding Engineering Specialization course per the EWF Directive (IWE: International Welding Engineer).
 - Taught "Automation and Robotics" for a 9-hour course.
 
