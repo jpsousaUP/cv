@@ -123,8 +123,7 @@ DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  
 4. **João Sousa**, Roya Darabi, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment."_** Published on *arXiv* and under review at *IEEE Transactions on Neural Networks and Learning Systems*, 2024. (arXiv: [2410.23988](https://arxiv.org/abs/2410.23988))
    
 5. José Ferreira, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, Luís Paulo Reis, J.M.R.S. Tavares, and **João Sousa**.  
-  **_"Gen-JEMA: Enhanced Explainability using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition."_** 
-  Under review at *Journal of Intelligent Manufacturing*, 2025.
+  **_"Gen-JEMA: Enhanced Explainability using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition."*Journal of Intelligent Manufacturing*, 2025. DOI: 10.1007/s10845-025-02614-4.
 
 6. **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
   **_"JEMA-SINDYc: End-to-End Control using Joint Embedding Multimodal Alignment in Directed Energy Deposition."_**  
