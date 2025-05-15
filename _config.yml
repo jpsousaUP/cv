@@ -1,6 +1,6 @@
 title: João Sousa  # Add a space after the period
 
-logo: ghibli_Joao.png #Joao_bio.png # Use a relative path to logo image 
+logo: Joao_bio.png # ghibli_Joao.png # Use a relative path to logo image 
 
 description: AI Researcher and Engineer. # Fix hyphenation 
 
