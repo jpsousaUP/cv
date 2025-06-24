@@ -115,10 +115,13 @@ Learned key features of Llama 3.2, including image classification, vision reason
 ## 🔬 Scientific Production
 
 ### 📖 Journal Articles
+1. Benedikt Brandau, Rico Hemschik, **João Paulo Sousa**, Frank Brueckner, and Alexander F.H. Kaplan. **_"Background orientated and shadowgraphy schlieren monitoring in laser-based additive manufacturing."_** *Journal of Materials Research and Technology*, 2025. DOI: [10.1016/j.jmrt.2025.06.161](https://doi.org/10.1016/j.jmrt.2025.06.161)
+
+
+
 1. **João Sousa**, Benedikt Brandau, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, and Luís P. Reis. **_"Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review."_** *IEEE Access*, 2025. (DOI: [10.1109/ACCESS.2025.3537859](https://doi.org/10.1109/ACCESS.2025.3537859))
    
-3. **João Sousa**, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring."_** *Robotics and Computer-Integrated Manufacturing*, 2025,
-DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  [Link to article](https://www.sciencedirect.com/science/article/pii/S0736584524001790)
+3. **João Sousa**, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring."_** *Robotics and Computer-Integrated Manufacturing*, 2025. DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892)
   
 4. **João Sousa**, Roya Darabi, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment."_** Published on *arXiv* and under review at *IEEE Transactions on Neural Networks and Learning Systems*, 2024. (arXiv: [2410.23988](https://arxiv.org/abs/2410.23988))
    
@@ -131,8 +134,9 @@ DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892))  
   Available at SSRN: [https://ssrn.com/abstract=5129470](https://ssrn.com/abstract=5129470)  
   
 7. **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
-  **_"Offline SINDYc-Guided Reinforcement Learning: Developing an End-to-End Control System for Directed Energy Deposition."_**  
-  Under review at *Engineering Applications of Artificial Intelligence*, 2025.  
+**_"Offline SINDYc-Guided Reinforcement Learning: Developing an End-to-End Control System for Directed Energy Deposition."_**  
+Preprint available at *SSRN*, 2025. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188273](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188273)
+
  
 8. Peixoto J, **João Sousa**, Carvalho R, Santos G, Cardoso R, and Ana Reis.  
   **_"End-to-End Solution for Analog Gauge Monitoring Using Computer Vision in an IoT Platform."_**  
