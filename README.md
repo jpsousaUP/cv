@@ -57,6 +57,11 @@ _My main interest lies in developing AI systems to address real-world problems._
 <br>
 ## 💻 Training
 
+- **Building with Llama 4** — DeepLearning.AI (June 2025)  
+  Build multimodal and long-context GenAI applications using Llama 4 open models, API, and Llama tools.  
+  [Certificate](https://learn.deeplearning.ai/accomplishments/83937606-b4a2-41b2-91a9-01b18a4cdf37?usp=sharing)
+
+
 - **Agents Course, Hugging Face Learn** (_Mar 2024_)  
   Enrolled in Hugging Face's "Agents Course," gaining hands-on experience with building agents for real-world applications using modern natural language processing and machine learning frameworks. [Certificate Link](https://cdn-lfs-us-1.hf.co/repos/f2/34/f2344151f60f6027c436821dc61cf3f27a46435de57df8df50ad02b5acca7c07/dd4e7fa174bcf8b6c29b25f59be28fe8e6229458a56053ca573cd37542c39852?response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-03-10.png%3B+filename%3D%222025-03-10.png%22%3B&response-content-type=image%2Fpng&Expires=1741625929&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MTYyNTkyOX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zL2YyLzM0L2YyMzQ0MTUxZjYwZjYwMjdjNDM2ODIxZGM2MWNmM2YyN2E0NjQzNWRlNTdkZjhkZjUwYWQwMmI1YWNjYTdjMDcvZGQ0ZTdmYTE3NGJjZjhiNmMyOWIyNWY1OWJlMjhmZThlNjIyOTQ1OGE1NjA1M2NhNTczY2QzNzU0MmMzOTg1Mj9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=SV9F9BPuvlURB65izgysu80DTeayVtM%7Eli%7E6wTL-UKj63%7EELV1tE1PXV-089hOzCNbzDYkr6NvwW4GchWK7xur0mudTAA5FYKz-cELxRMdBgauhzOHJpCt4jSParrT-Ksd5jbMdYXmSoGBavcCYEuCAMTMj5m1kRAQudAAM2w1F7QGaDSTcuOaBCwh50XvkQVfCw6bOdanR6C6ugdKk9UPTWrkHMGSGP7oc8j6LH2Z7XNljZ3AgCvI7HA2PCYhoptg5iZMsPOMhIgagmFISkJXCjp0JokB59ldvHQnsv5nIpfZSCac0OlzIiZJPsBzZghliZ0p9TIxqj%7EzT8GUZphw__&Key-Pair-Id=K24J24Z295AEI9)
 
