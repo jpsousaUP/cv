@@ -171,13 +171,16 @@ Preprint available at *SSRN*, 2025. [https://papers.ssrn.com/sol3/papers.cfm?abs
 
 
 ### 🎤 Oral Presentations
+1. ISAM'25: **_"AI-Driven End-to-End Monitoring and Control with SINDYc and JEMA for Directed Energy Deposition"_**, International Symposium on Additive Manufacturing, Dresden, Germany.
 
 1. Company's Day 2024: **_"Autonomous AI for Next-Gen Laser Additive Manufacturing"_**, Pitch Talk, Faculty of Engineering of the University of Porto (FEUP), Porto, Portugal. [Event Video](https://www.youtube.com/watch?v=EzL8z_NMGlw)
 1. PubhD Porto 2024: **_"Application of Artificial Intelligence in Laser Additive Manufacturing"_**, Deep Learning Sessions, Porto, Portugal. [Event Details](https://www.linkedin.com/posts/deeplearningpt_pubhd-porto-x-deep-learning-sessions-tue-activity-7176658185879969794-WzvY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABcDsq0BuXOOC_B2yrrzOa0GQyIbqDzDfvI)
 1. ISAM'23: **_"Artificial Intelligence for Flawless Additive Manufacturing"_**, International Symposium on Additive Manufacturing, Dresden, Germany.
 2. ASME IMECE'23: **_"Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and the MOOSE Framework"_**, ASME International Mechanical Engineering Congress and Exposition, New Orleans, Louisiana, USA.
 3. EPIA'22: **_"Artificial Intelligence for Zero-Defect Manufacturing in Laser-Based Processes"_**, Conference of the Portuguese Association for Artificial Intelligence, Lisbon, Portugal.
-4. ASME IMECE'22: **_"An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning"_**, ASME International Mechanical Engineering Congress and Exposition, Columbus, Ohio, USA.
+3. 5th Meeting of the Young Researchers of LAETA, 2022: **_"Digital Twin Robotic Directed Energy Deposition Robotic Cell using RoboDK"_**, Poster Presentation.
+
+5. ASME IMECE'22: **_"An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning"_**, ASME International Mechanical Engineering Congress and Exposition, Columbus, Ohio, USA.
    
 
 
