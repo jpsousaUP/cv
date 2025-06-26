@@ -122,6 +122,7 @@ Learned key features of Llama 3.2, including image classification, vision reason
 ### 📖 Journal Articles
 1. Benedikt Brandau, Rico Hemschik, **João Paulo Sousa**, Frank Brueckner, and Alexander F.H. Kaplan. **_"Background orientated and shadowgraphy schlieren monitoring in laser-based additive manufacturing."_** *Journal of Materials Research and Technology*, 2025. DOI: [10.1016/j.jmrt.2025.06.161](https://doi.org/10.1016/j.jmrt.2025.06.161)
 
+1. Roya Darabi, Jorge Wolfs Gil, Erfan Azinpour, **João Sousa**, Ana Reis, José César de Sá. **_"Controlling hot cracking in WC–NiCrBSiFe coatings produced by laser surface cladding: A multiphase field approach for enhancing process repeatability."_** *Journal of the Mechanics and Physics of Solids*, 2025. DOI: [10.1016/j.jmps.2025.106238](https://doi.org/10.1016/j.jmps.2025.106238)
 
 
 1. **João Sousa**, Benedikt Brandau, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, and Luís P. Reis. **_"Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review."_** *IEEE Access*, 2025. (DOI: [10.1109/ACCESS.2025.3537859](https://doi.org/10.1109/ACCESS.2025.3537859))
