@@ -178,7 +178,7 @@ Preprint available at *SSRN*, 2025. [https://papers.ssrn.com/sol3/papers.cfm?abs
 1. ISAM'23: **_"Artificial Intelligence for Flawless Additive Manufacturing"_**, International Symposium on Additive Manufacturing, Dresden, Germany.
 2. ASME IMECE'23: **_"Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and the MOOSE Framework"_**, ASME International Mechanical Engineering Congress and Exposition, New Orleans, Louisiana, USA.
 3. EPIA'22: **_"Artificial Intelligence for Zero-Defect Manufacturing in Laser-Based Processes"_**, Conference of the Portuguese Association for Artificial Intelligence, Lisbon, Portugal.
-3. 5th Meeting of the Young Researchers of LAETA, 2022: **_"Digital Twin Robotic Directed Energy Deposition Robotic Cell using RoboDK"_**, Poster Presentation.
+3. 5th Meeting of the Young Researchers of LAETA, 2022: **_"Digital Twin of a Robotic Directed Energy Deposition Cell Using RoboDK"_**, Poster Presentation.
 
 5. ASME IMECE'22: **_"An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition with Reinforcement Learning"_**, ASME International Mechanical Engineering Congress and Exposition, Columbus, Ohio, USA.
    
