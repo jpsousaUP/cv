@@ -120,6 +120,10 @@ Learned key features of Llama 3.2, including image classification, vision reason
 ## 🔬 Scientific Production
 
 ### 📖 Journal Articles
+
+1. Benedikt Brandau, **João Paulo Sousa**, Rico Hemschik, Frank Brueckner, and Alexander F.H. Kaplan. **_"Cross-modality transfer for DED-LB/M: AI-based prediction of schlieren phenomena from coaxial imaging."_** *Additive Manufacturing Letters*, Volume 14, 2025, 100298, ISSN 2772-3690. DOI: [10.1016/j.addlet.2025.100298](https://doi.org/10.1016/j.addlet.2025.100298)
+
+
 1. Benedikt Brandau, Rico Hemschik, **João Paulo Sousa**, Frank Brueckner, and Alexander F.H. Kaplan. **_"Background orientated and shadowgraphy schlieren monitoring in laser-based additive manufacturing."_** *Journal of Materials Research and Technology*, 2025. DOI: [10.1016/j.jmrt.2025.06.161](https://doi.org/10.1016/j.jmrt.2025.06.161)
 
 1. Roya Darabi, Jorge Wolfs Gil, Erfan Azinpour, **João Sousa**, Ana Reis, José César de Sá. **_"Controlling hot cracking in WC–NiCrBSiFe coatings produced by laser surface cladding: A multiphase field approach for enhancing process repeatability."_** *Journal of the Mechanics and Physics of Solids*, 2025. DOI: [10.1016/j.jmps.2025.106238](https://doi.org/10.1016/j.jmps.2025.106238)
