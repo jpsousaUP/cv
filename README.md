@@ -140,7 +140,7 @@ Learned key features of Llama 3.2, including image classification, vision reason
 
 6. **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
   **_"JEMA-SINDYc: End-to-End Control using Joint Embedding Multimodal Alignment in Directed Energy Deposition."_**  
-  Under review at *Additive Manufacturing*, 2025. DOI: [10.2139/ssrn.5129470](http://dx.doi.org/10.2139/ssrn.5129470)    
+  *Additive Manufacturing*, 2025. DOI: [10.2139/ssrn.5129470](http://dx.doi.org/10.2139/ssrn.5129470)    
   Available at SSRN: [https://ssrn.com/abstract=5129470](https://ssrn.com/abstract=5129470)  
   
 7. **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
@@ -175,6 +175,8 @@ Preprint available at *SSRN*, 2025. [https://papers.ssrn.com/sol3/papers.cfm?abs
 
 
 ### 🎤 Oral Presentations
+1. DeepLearn 2025: **_"World Models for Reasoning and Embedding Space Learning in Directed Energy Deposition"_**, Local Group Presentation, 12th International School on Deep Learning, Universidade da Maia (UMAIA), Porto, Portugal. [Event Details](https://deeplearn.irdta.eu/2025/)
+
 1. ISAM'25: **_"AI-Driven End-to-End Monitoring and Control with SINDYc and JEMA for Directed Energy Deposition"_**, International Symposium on Additive Manufacturing, Dresden, Germany.
 
 1. Company's Day 2024: **_"Autonomous AI for Next-Gen Laser Additive Manufacturing"_**, Pitch Talk, Faculty of Engineering of the University of Porto (FEUP), Porto, Portugal. [Event Video](https://www.youtube.com/watch?v=EzL8z_NMGlw
