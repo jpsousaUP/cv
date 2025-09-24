@@ -45,9 +45,9 @@ _Guided by curiosity, shaped by continuous learning, and driven to create meanin
 
 - **Programming Languages:** Python, C++, SQL  
 - **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, SciPy, Stable-baselines  
-- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc.), DINO, SAM 
+- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc.), Florence-2, DINO, SAM 
 - **Robotics:** ROS 2, MCAP, Foxglove  
-- **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, Florence-2, and LLaMa
+- **Generative AI:** Experience with OpenAI models, Hugging Face Transformers and LLaMa
 - **Additional Tools:** Time series databases (InfluxDB), Containers (Docker), Repositories (GitHub, Bitbucket)  
 
 
