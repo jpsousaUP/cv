@@ -37,7 +37,8 @@
 
 #### Summary
 
-His work centres on integrating Artificial Intelligence (AI) into manufacturing processes, combining research and real-world deployment. He explores embedding representations (JEPA), reinforcement learning, and Generative AI to advance automation and explainability.
+His work centres on integrating Artificial Intelligence (AI) into manufacturing processes, combining research and real-world deployment. 
+He explores embedding representations (JEPA), reinforcement learning, and Generative AI to advance automation and explainability.
 
 _Guided by curiosity, shaped by continuous learning, and driven to create meaningful impact._
 
