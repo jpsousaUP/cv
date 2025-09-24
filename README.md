@@ -98,7 +98,7 @@ Learned key features of Llama 3.2, including image classification, vision reason
 - Applied YOLO-OBB for accurate detection of oriented bounding boxes around gauge components.
 
 
-**FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://liacc.fe.up.pt/" target="_blank">LIACC</a> (_Since 2022_)**
+**FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://liacc.fe.up.pt/" target="_blank">LIACC</a> (_2022-2025_)**
 
 - Conceptualized and developed my PhD work focused on applying AI to monitor and control laser-based additive manufacturing processes.
 - Developed a ROS 2 application for process digitalization, data management, and real-time end-to-end AI control.
