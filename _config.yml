@@ -1,8 +1,8 @@
-title: João Sousa  # Add a space after the period
+title: João Sousa, PhD  # Add a space after the period
 
 logo: Joao_bio.png # ghibli_Joao.png # Use a relative path to logo image 
 
-description: AI Researcher and Engineer. # Fix hyphenation 
+description: AI Engineer and Researcher. # Fix hyphenation 
 
 show_downloads: false # Fix spelling
 
