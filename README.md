@@ -30,7 +30,7 @@
 
 #### Summary
 
-His research centres on integrating Artificial Intelligence (AI) into manufacturing processes, with a focus on real-time monitoring, optimisation, and control. He explores embedding representations (JEPA), reinforcement learning, and energy-based models (EBMs) to advance automation and explainability.
+His work centres on integrating Artificial Intelligence (AI) into manufacturing processes, combining research and real-world deployment. He explores embedding representations (JEPA), reinforcement learning, and energy-based models (EBMs) to advance automation and explainability.
 
 _Guided by curiosity, shaped by continuous learning, and driven to create meaningful impact._
 
