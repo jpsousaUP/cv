@@ -32,7 +32,7 @@
 
 PhD candidate at the University of Porto, focusing on applying artificial intelligence to real-time monitoring and control of additive manufacturing processes.
 
-_My main interest lies in developing AI systems to address real-world problems._
+_Guided by curiosity, shaped by continuous learning, and driven to create meaningful impact._
 
 #### Technical Skills:
 
