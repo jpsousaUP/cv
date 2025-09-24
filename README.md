@@ -122,8 +122,6 @@ Learned key features of Llama 3.2, including image classification, vision reason
 - Performed sampling and process optimization using Bayesian Optimization.
 - Created a multimodal AI model for process monitoring and developed a new loss function (JEMA) based on supervised contrastive learning and representation learning.
 - Designed and implemented an end-to-end AI-based controller using offline reinforcement learning.
-- Active member of LIACC (Laboratory of Artificial Intelligence and Computer Science).
-
 
 **Product and Systems Development Engineer @ <a href="https://www.inegi.up.pt/en/" target="_blank">INEGI</a> (_2019–2022_)**
 - Worked on projects involving data storage and management, edge and cloud computing, and industrial automation engineering.
