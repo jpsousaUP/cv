@@ -54,9 +54,9 @@ _Guided by curiosity, shaped by continuous learning, and driven to create meanin
 ####  Soft / Transferable Skills
 - **Project management:** Leading small research teams, planning and monitoring project timelines
 - **Scientific communication:** Writing research papers, technical reports, and project proposals
-- **Collaboration:** Coordinating projects with international teams and Portuguese companies, mentoring PhD/MSc students, cross-disciplinary teamwork
+- **Collaboration:** Coordinating projects with international teams and Portuguese companies, mentoring PhD/MSc students, cross-disciplinary teamwork. Experience in international research environments
 - **Problem-solving:** Designing experiments, debugging complex software/hardware systems, optimising workflows
-- **Presentation skills:** Conferences, poster presentations, workshops, experience in international research environments
+- **Presentation skills:** International Conferences, poster presentations, workshops 
 
 
 <br>
