@@ -30,7 +30,7 @@
 
 #### Summary
 
-PhD candidate at the University of Porto, focusing on applying artificial intelligence to real-time monitoring and control of additive manufacturing processes.
+His research centres on integrating Artificial Intelligence (AI) into manufacturing processes, with a focus on real-time monitoring, optimisation, and control. He explores embedding representations (JEPA), reinforcement learning, and energy-based models (EBMs) to advance automation and explainability.
 
 _Guided by curiosity, shaped by continuous learning, and driven to create meaningful impact._
 
