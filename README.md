@@ -1,4 +1,4 @@
-### AI Researcher @LIACC @Fraunhofer IWS @INEGI_
+### AI Engineer & Researcher @FEUP
 <p>
   <a href="https://www.google.com/maps/place/Porto,+Portugal" aria-label="View Porto on Google Maps">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg" alt="Map pin icon" style="vertical-align:middle; width:16px; height:16px;">
@@ -38,7 +38,7 @@ _My main interest lies in developing AI systems to address real-world problems._
 
 - **Programming Languages:** Python, C++, SQL  
 - **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-learn, Numpy, Pandas, SciPy, Stable-baselines  
-- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc.) 
+- **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc.), DINO, SAM 
 - **Robotics:** ROS 2, MCAP, Foxglove  
 - **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, Florence-2, and LLaMa
 - **Project Management:** Managing small research teams, writing project proposals, and technical reports  
@@ -56,6 +56,12 @@ _My main interest lies in developing AI systems to address real-world problems._
 
 <br>
 ## 💻 Training
+
+- **Prompt Engineering for Vision Models, DeepLearning.AI** (September 2025)  
+  Learn prompt engineering for vision models using Stable Diffusion, object detection, in-painting and advanced generation techniques.  [Certificate Link.](https://learn.deeplearning.ai/accomplishments/49610f02-8511-4155-b85b-223068d8e769?usp=sharing)
+
+- **Knowledge Graphs for AI Agent: API Discovery, DeepLearning.AI** (September 2025)  
+  Construct a knowledge graph and use it to enable your AI agent to find and call the right APIs in the right order.  [Certificate Link.](https://learn.deeplearning.ai/accomplishments/587c87f1-33a8-44bc-9de5-58e1a8e75348?usp=sharing)
 
 - **Building with Llama 4** — DeepLearning.AI (June 2025)  
   Build multimodal and long-context GenAI applications using Llama 4 open models, API, and Llama tools.  
@@ -84,6 +90,14 @@ Learned key features of Llama 3.2, including image classification, vision reason
 <br>
 ## 💼 Professional Experience
 
+**Freelance AI Engineer @ Avanti-AI (Startup) (_Since 2025_)**
+
+- Developed an end-to-end AI framework to automate analog gauge reading in industrial settings.
+- Used Florence-2 for needle detection, segmentation, and vision-language grounding.
+- Created and curated synthetic datasets to simulate diverse visual conditions and improve generalisation.
+- Applied YOLO-OBB for accurate detection of oriented bounding boxes around gauge components.
+
+
 **FCT Research Fellow @ <a href="https://www.up.pt/" target="_blank">University of Porto</a>, <a href="https://www.iws.fraunhofer.de/en.html" target="_blank">Fraunhofer IWS</a>, <a href="https://liacc.fe.up.pt/" target="_blank">LIACC</a> (_Since 2022_)**
 
 - Conceptualized and developed my PhD work focused on applying AI to monitor and control laser-based additive manufacturing processes.
@@ -96,7 +110,8 @@ Learned key features of Llama 3.2, including image classification, vision reason
 
 **Product and Systems Development Engineer @ <a href="https://www.inegi.up.pt/en/" target="_blank">INEGI</a> (_2019–2022_)**
 - Worked on projects involving data storage and management, edge and cloud computing, and industrial automation engineering.
-- Assisted in the conceptualization and drafting of national and European project proposals.
+- Worked with industry partners including Glartek, Zollern, Martifer, AMOB, SERMEC, and PALBIT.  
+- Involved in the preparation of national and European R&D project proposals.
 
 **Research Fellow @ <a href="https://www.fe.up.pt/en/" target="_blank">FEUP - INEGI</a> (_2018–2019_)**
 - Development of Master thesis: “Development of a Control Unit and Data Acquisition System for a Sheet Metal Universal Testing Machine.”
@@ -121,56 +136,75 @@ Learned key features of Llama 3.2, including image classification, vision reason
 
 ### 📖 Journal Articles
 
-1. Benedikt Brandau, **João Paulo Sousa**, Rico Hemschik, Frank Brueckner, and Alexander F.H. Kaplan. **_"Cross-modality transfer for DED-LB/M: AI-based prediction of schlieren phenomena from coaxial imaging."_** *Additive Manufacturing Letters*, Volume 14, 2025, 100298, ISSN 2772-3690. DOI: [10.1016/j.addlet.2025.100298](https://doi.org/10.1016/j.addlet.2025.100298)
+1. **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
+   **_"JEMA-SINDYc: End-to-End Control using Joint Embedding Multimodal Alignment in Directed Energy Deposition."_**  
+   *Additive Manufacturing*, 2025. DOI: [10.1016/j.addma.2025.104888](https://doi.org/10.1016/j.addma.2025.104888)
 
+2. **João Sousa**, Benedikt Brandau, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, and Luís P. Reis.  
+   **_"Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review."_**  
+   *IEEE Access*, 2025. DOI: [10.1109/ACCESS.2025.3537859](https://doi.org/10.1109/ACCESS.2025.3537859)
 
-1. Benedikt Brandau, Rico Hemschik, **João Paulo Sousa**, Frank Brueckner, and Alexander F.H. Kaplan. **_"Background orientated and shadowgraphy schlieren monitoring in laser-based additive manufacturing."_** *Journal of Materials Research and Technology*, 2025. DOI: [10.1016/j.jmrt.2025.06.161](https://doi.org/10.1016/j.jmrt.2025.06.161)
+3. **João Sousa**, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis.  
+   **_"Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring."_**  
+   *Robotics and Computer-Integrated Manufacturing*, 2025. DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892)
 
-1. Roya Darabi, Jorge Wolfs Gil, Erfan Azinpour, **João Sousa**, Ana Reis, José César de Sá. **_"Controlling hot cracking in WC–NiCrBSiFe coatings produced by laser surface cladding: A multiphase field approach for enhancing process repeatability."_** *Journal of the Mechanics and Physics of Solids*, 2025. DOI: [10.1016/j.jmps.2025.106238](https://doi.org/10.1016/j.jmps.2025.106238)
+4. José Ferreira, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, Luís Paulo Reis, J.M.R.S. Tavares, and **João Sousa**.  
+   **_"Gen-JEMA: Enhanced Explainability Using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition."_**  
+   *Journal of Intelligent Manufacturing*, 2025. DOI: [10.1007/s10845-025-02614-4](https://doi.org/10.1007/s10845-025-02614-4)
 
-
-1. **João Sousa**, Benedikt Brandau, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, and Luís P. Reis. **_"Artificial Intelligence for Control in Laser-Based Additive Manufacturing: A Systematic Review."_** *IEEE Access*, 2025. (DOI: [10.1109/ACCESS.2025.3537859](https://doi.org/10.1109/ACCESS.2025.3537859))
-   
-3. **João Sousa**, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"Human-in-the-Loop Multi-Objective Bayesian Optimization for Directed Energy Deposition with In-Situ Monitoring."_** *Robotics and Computer-Integrated Manufacturing*, 2025. DOI: [10.1016/j.rcim.2024.102892](https://doi.org/10.1016/j.rcim.2024.102892)
-  
-4. **João Sousa**, Roya Darabi, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis. **_"JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment."_** Published on *arXiv* and under review at *IEEE Transactions on Neural Networks and Learning Systems*, 2024. (arXiv: [2410.23988](https://arxiv.org/abs/2410.23988))
-   
-5. José Ferreira, Roya Darabi, Armando Sousa, Frank Brueckner, Ana Reis, Luís Paulo Reis, J.M.R.S. Tavares, and **João Sousa**.  
-  **_"Gen-JEMA: Enhanced Explainability using Generative Joint Embedding Multimodal Alignment for Monitoring Directed Energy Deposition."_** *Journal of Intelligent Manufacturing*, 2025. DOI: [10.1007/s10845-025-02614-4](https://link.springer.com/article/10.1007/s10845-025-02614-4)
+5. **João Sousa**, Roya Darabi, Armando Sousa, Frank Brueckner, Luís Paulo Reis, and Ana Reis.  
+   **_"JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment."_**  
+   Published on *arXiv* and under review at *Computer Vision and Image Understanding*, 2024. arXiv: [2410.23988](https://arxiv.org/abs/2410.23988)
 
 6. **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
-  **_"JEMA-SINDYc: End-to-End Control using Joint Embedding Multimodal Alignment in Directed Energy Deposition."_**  
-  *Additive Manufacturing*, 2025. DOI: [10.2139/ssrn.5129470](http://dx.doi.org/10.2139/ssrn.5129470)    
-  Available at SSRN: [https://ssrn.com/abstract=5129470](https://ssrn.com/abstract=5129470)  
-  
-7. **João Sousa**, Benedikt Brandau, Rico Hemschik, Roya Darabi, Armando Sousa, Frank Brueckner, Luís P. Reis, and Ana Reis.  
-**_"Offline SINDYc-Guided Reinforcement Learning: Developing an End-to-End Control System for Directed Energy Deposition."_**  
-Preprint available at *SSRN*, 2025. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188273](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5188273)
+   **_"Offline SINDYc-Guided Reinforcement Learning: Developing an End-to-End Control System for Directed Energy Deposition."_**  
+   Under review at *Applied Soft Computing Journal*, 2025.
 
- 
-8. Peixoto J, **João Sousa**, Carvalho R, Santos G, Cardoso R, and Ana Reis.  
-  **_"End-to-End Solution for Analog Gauge Monitoring Using Computer Vision in an IoT Platform."_**  
-  *Sensors*, 2023. DOI: [10.3390/s23249858](https://doi.org/10.3390/s23249858)  
- 
-9. Peixoto J, **João Sousa**, Carvalho R, Santos G, Mendes J, Cardoso R, and Ana Reis.  
-  **_"Development of an Analog Gauge Reading Solution Based on Computer Vision and Deep Learning for an IoT Application."_**  
-  *Telecom*, 2022, DOI: [10.3390/telecom3040032](https://doi.org/10.3390/telecom3040032)  
+7. Benedikt Brandau, **João Paulo Sousa**, Rico Hemschik, Frank Brueckner, and Alexander F.H. Kaplan.  
+   **_"Cross-Modality Transfer for DED-LB/M: AI-Based Prediction of Schlieren Phenomena from Coaxial Imaging."_**  
+   *Additive Manufacturing Letters*, 2025. DOI: [10.1016/j.addlet.2025.100298](https://doi.org/10.1016/j.addlet.2025.100298)
 
-10. Ferreira A.A., Darabi R., **João P. Sousa**, Cruz J.M., Ana Reis, and M.F. Vieira.  
-  **_"Optimization of Direct Laser Deposition of a Martensitic Steel Powder (Metco 42C) on 42CrMo4 Steel."_**  
-  *Metals*, 2021, DOI: [10.3390/met11040672](https://doi.org/10.3390/met11040672)
+8. Benedikt Brandau, Rico Hemschik, **João Paulo Sousa**, Frank Brueckner, and Alexander F.H. Kaplan.  
+   **_"Enhancing Laser Cladding Stability: Defects and Schlieren-Based Analytics During L-DED."_**  
+   *Additive Manufacturing*, 2025. DOI: [10.1016/j.addma.2025.104758](https://doi.org/10.1016/j.addma.2025.104758)
+
+9. Roya Darabi, Jorge Gil, Erfan Azinpour, **João Paulo Sousa**, Ana Reis, and J. Cesar de Sa.  
+   **_"Controlling Hot Cracking in WC–NiCrBSiFe Coatings Produced by Laser Surface Cladding: A Multiphase Field Approach for Enhancing Process Repeatability."_**  
+   *Journal of the Mechanics and Physics of Solids*, 2025. DOI: [10.1016/j.jmps.2025.106238](https://doi.org/10.1016/j.jmps.2025.106238)
+
+10. André A. Ferreira, Ana R. Reis, **João P. Sousa**, João M. Cruz, and Manuel F. Vieira.  
+    **_"Inconel 625/NiCrWMo Functionally Graded Materials Manufactured by Direct Laser Deposition."_**  
+    *Materials Characterization*, 2025. DOI: [10.1016/j.matchar.2025.114862](https://doi.org/10.1016/j.matchar.2025.114862)
+
+11. Peixoto J, **João Sousa**, Carvalho R, Santos G, Cardoso R, and Ana Reis.  
+    **_"End-to-End Solution for Analog Gauge Monitoring Using Computer Vision in an IoT Platform."_**  
+    *Sensors*, 2023. DOI: [10.3390/s23249858](https://doi.org/10.3390/s23249858)
+
+12. Peixoto J, **João Sousa**, Carvalho R, Santos G, Mendes J, Cardoso R, and Ana Reis.  
+    **_"Development of an Analog Gauge Reading Solution Based on Computer Vision and Deep Learning for an IoT Application."_**  
+    *Telecom*, 2022. DOI: [10.3390/telecom3040032](https://doi.org/10.3390/telecom3040032)
+
+13. Ferreira A.A., Darabi R., **João P. Sousa**, Cruz J.M., Ana Reis, and M.F. Vieira.  
+    **_"Optimization of Direct Laser Deposition of a Martensitic Steel Powder (Metco 42C) on 42CrMo4 Steel."_**  
+    *Metals*, 2021. DOI: [10.3390/met11040672](https://doi.org/10.3390/met11040672)
+
 
 
 ### 📢 Conference Articles
 
 1. João Peixoto, __João Sousa__, Ricardo Carvalho, Martinho Soares, Ricardo Cardoso, and Ana Reis. **_"Anomaly Detection with a LSTM Autoencoder Using InfluxDB."_** *Flexible Automation and Intelligent Manufacturing*, 2024, *Lecture Notes in Mechanical Engineering*, Springer, Cham.  
-   DOI: [10.1007/978-3-031-38165-2_9](https://doi.org/10.1007/978-3-031-38165-2_9)
+   DOI: [10.1007/978-3-031-38165-2_9](https://doi.org/10.1007/978-3-031-38165-2_9).
 
 2. **João Sousa**, Roya Darabi, Armando Sousa, Luís Paulo Reis, Frank Brueckner, Ana Reis, and J.C. de Sá. **_"Enhancing Sample Efficiency for Temperature Control in DED with Reinforcement Learning and MOOSE Framework."_**, *Proceedings of the ASME 2023 International Mechanical Engineering Congress and Exposition*, Volume 3: Advanced Manufacturing, New Orleans, LA, USA, October 29–November 2, 2023.  
-   DOI: [10.1115/IMECE2023-113629](https://doi.org/10.1115/IMECE2023-113629)
+   DOI: [10.1115/IMECE2023-113629](https://doi.org/10.1115/IMECE2023-113629).
 
 3. **João Sousa**, Roya Darabi, Ana Reis, M. Parente, Luís Paulo Reis, and J.C. de Sá. **_"An Adaptive Thermal Finite Element Simulation of Direct Energy Deposition With Reinforcement Learning: A Conceptual Framework."_**, *Proceedings of the ASME 2022 International Mechanical Engineering Congress and Exposition*, Volume 2B: Advanced Manufacturing, Columbus, OH, USA, October 30–November 3, 2022.  
-   DOI: [10.1115/IMECE2022-95055](https://doi.org/10.1115/IMECE2022-95055)
+   DOI: [10.1115/IMECE2022-95055](https://doi.org/10.1115/IMECE2022-95055).
+
+4. Frank Brueckner, **João Sousa**, Mirko Riede, Rico Hemschik, Marko Seifert, Stefan Kühn, Benedikt Brandau, Elena Lopez, and Christoph Leyens.  
+**_"AI-Assisted Process Monitoring and Control Approaches for AM: State-of-the-Art and Challenges in Industrial Application."_**  
+*Proceedings of SPIE 13354, Laser 3D Manufacturing XII*, 1335406, San Francisco, CA, USA, 2025.  
+DOI: [10.1117/12.3046201](https://doi.org/10.1117/12.3046201).
 
 
 
@@ -208,6 +242,9 @@ Preprint available at *SSRN*, 2025. [https://papers.ssrn.com/sol3/papers.cfm?abs
 
 - **José Pedro Ferreira, 2024:** *Generative Multimodal Learning for In-situ Monitoring in Direct Energy Deposition*  
   FEUP | Co-supervised | Applying generative AI models for multimodal analysis in additive manufacturing.
+
+- **João Silva, 2025:** *Development of an Human-machine interface for tire building machine *  
+  FEUP | Co-supervised  | Developing an industrial automation solution for Continetal.
 
 - **António Simões Alves, 2025:** *Computer Vision and AI for Monitoring the Melt Pool*  
   FEUP | Ongoing | Applying deep learning for real-time monitoring in laser additive manufacturing.
