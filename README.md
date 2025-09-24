@@ -48,8 +48,16 @@ _Guided by curiosity, shaped by continuous learning, and driven to create meanin
 - **Computer Vision:** OpenCV, Ultralytics, finetune pre-trained models (ViT, EfficientNet, ResNet, etc.), DINO, SAM 
 - **Robotics:** ROS 2, MCAP, Foxglove  
 - **Generative AI:** Experience with OpenAI models, Hugging Face Transformers, Florence-2, and LLaMa
-- **Project Management:** Managing small research teams, writing project proposals, and technical reports  
 - **Additional Tools:** Time series databases (InfluxDB), Containers (Docker), Repositories (GitHub, Bitbucket)  
+
+
+####  Soft / Transferable Skills
+- **Project management:** Leading small research teams, planning and monitoring project timelines
+- **Scientific communication:** Writing research papers, technical reports, and project proposals
+- **Collaboration:** Coordinating projects with international teams and Portuguese companies, mentoring PhD/MSc students, cross-disciplinary teamwork
+- **Problem-solving:** Designing experiments, debugging complex software/hardware systems, optimising workflows
+- **Presentation skills:** Conferences, poster presentations, workshops, experience in international research environments
+
 
 <br>
 ## 🎓 Education
