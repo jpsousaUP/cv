@@ -55,7 +55,9 @@ _Guided by curiosity, shaped by continuous learning, and driven to create meanin
 ## 🎓 Education
 - **Ph.D. in Mechanical Engineering** | <a href="https://www.up.pt/" target="_blank">University of Porto</a> (_2022 - 2025_)  
   _Focus:_ Artificial Intelligence in Laser-based Additive Manufacturing <br>
-  _Supervisors:_ Ana Reis, Luís Paulo Reis, Armando Sousa, Frank Brueckner
+  _Supervisors:_ Ana Reis, Luís Paulo Reis, Armando Sousa, Frank Brueckner <br>
+  _Thesis:_ <a href="https://repositorio-aberto.up.pt/handle/10216/168553" target="_blank">View Thesis</a>
+
   
 - **M.Sc. in Mechanical Engineering** | <a href="https://www.up.pt/" target="_blank">University of Porto</a> (_2014 - 2019_)  
   _Specialization:_ Automation
