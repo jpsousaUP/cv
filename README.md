@@ -36,6 +36,9 @@
   </a>
 </p>
 
+[Read my 2-page CV](2-page-cv.pdf)
+
+
 #### Summary
 
 His work centres on integrating Artificial Intelligence (AI) into manufacturing processes, combining research and real-world deployment. He explores embedding representations (JEPA), reinforcement learning, and energy-based models (EBMs) to advance automation and explainability.
