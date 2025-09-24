@@ -29,14 +29,10 @@
 </p>
 
 
-<p>
-  <a href="/2-page-cv.pdf" aria-label="Read my 2-page CV" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF icon" style="vertical-align:middle; width:16px; height:16px;">
-    Read my 2-page CV
-  </a>
-</p>
-
-[Read my 2-page CV](2-page-cv.pdf)
+<a href="2-page-cv.pdf" target="_blank" aria-label="Read my 2-page CV">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF icon" style="vertical-align:middle; width:16px; height:16px;">
+  Read my 2-page CV
+</a>
 
 
 #### Summary
