@@ -32,7 +32,7 @@
 <p>
   <a href="/2-page-cv.pdf" aria-label="Read my 2-page CV" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF icon" style="vertical-align:middle; width:16px; height:16px;">
-    **Read my 2-page CV**
+    Read my 2-page CV
   </a>
 </p>
 
