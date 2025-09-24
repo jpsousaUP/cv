@@ -40,6 +40,8 @@
 His work centres on integrating Artificial Intelligence (AI) into manufacturing processes, combining research and real-world deployment. 
 He explores embedding representations (JEPA), reinforcement learning, and Generative AI to advance automation and explainability.
 
+His proudest contribution is the development of JEMA (Joint Embedding Multimodal Alignment), which combines images from two different cameras with process parameters to create a shared embedding space. This enables knowledge transfer across modalities using only a single sensor and supports planning in this structured space using offline reinforcement learning, leading to the development of a real-time controller tested in a real-world environment.
+
 _Guided by curiosity, shaped by continuous learning, and driven to create meaningful impact._
 
 #### Technical Skills:
